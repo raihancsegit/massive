@@ -1,0 +1,43 @@
+.animated-img-box {
+  position: relative;
+  overflow: hidden;
+}
+
+.animated-img {
+  width: 100%;
+  height: auto;
+}
+
+.animated-img-content {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 20px 30px;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.animated-img-table {
+  display: table;
+  width: 100%;
+  height: 100%;
+}
+
+.animated-img-cell {
+  display: table-cell;
+}
+
+.animated-img {
+  -webkit-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+
+[data-animation="zoomin"]:hover .animated-img,
+[data-animation="zoomin"]:focus .animated-img {
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}

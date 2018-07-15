@@ -1,0 +1,88 @@
+/*-----------------------------------------------
+    promo-box shortcode
+-----------------------------------------------*/
+.promo-box p{
+  margin: 0 !important;
+}
+
+/*-----------------------------------------------
+    mailchimp
+-----------------------------------------------*/
+.mailchimp label {
+  font-weight: normal;
+}
+
+/*-----------------------------------------------
+    testimonial-shortcode
+-----------------------------------------------*/
+.testimonials img{
+  display: block;
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+}
+
+
+/*-----------------------------------------------
+  featured-box Shortcode
+-----------------------------------------------*/
+.light-text .desc, .light-text .icon, .light-text .title h4{
+  color: #fff;
+}
+
+/*-----------------------------------------------
+  carousel Shortcode
+-----------------------------------------------*/
+.light-txt .fun-info:before{
+  background: rgba(255,255,255,.40) !important;
+}
+
+.content-position-above .heading-title-alt{
+  margin-bottom: 50px;
+}
+
+/* ----------------------------------------------------------------
+    portfolio shortcode
+-----------------------------------------------------------------*/
+.portfolio{
+  margin: 0 !important;
+}
+
+.portfolio-filter{
+  margin-bottom: 50px !important;
+}
+
+img.portfolio-single-image{
+  max-width: 100%;
+  height: auto;
+}
+
+/*-----------------------------------------------
+  heading style shortcode
+-----------------------------------------------*/
+.heading-title-side-border h1{
+  padding: 6px 10px 0 0 !important;
+}
+
+.heading-title span,
+.heading-title-alt span {
+  padding:10px 0;
+  display: block;
+}
+
+.border-short-bottom.text-left .heading-five:after {
+  left: 0;
+  margin-left: 0px;
+}
+
+.border-short-bottom.text-right .heading-five:after {
+  right: 0;
+  left: inherit;
+}
+
+/*-----------------------------------------------
+  carren shortcode - extended css
+-----------------------------------------------*/
+.career-details-info .c-list-row ul li{
+  list-style: none;
+}

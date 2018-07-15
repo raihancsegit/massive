@@ -1,0 +1,259 @@
+/*===========================================
+Massive Color Scheme For CodestarFramework
+*===========================================*/
+
+/**
+* Option
+*/
+.cs-option-framework {
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.04);
+    border: 1px solid #e5e5e5;
+}
+.cs-framework .cs-header {
+    background-color: #f9f9f9;
+    border-bottom: 1px solid #eee;
+}
+.cs-framework .cs-footer {
+    border-top: 1px solid #eee;
+    background-color: #f9f9f9;
+}
+.cs-framework .cs-header h1 { color: #333; }
+
+/**
+* Nav container
+*/
+.cs-framework .cs-nav-background {
+    background-color: #f9f9f9;
+    border-right: 1px solid #eee;
+}
+.cs-framework .cs-nav ul li a {
+    border-bottom-color: #eee;
+    background-color: transparent;
+    color: #555;
+}
+.cs-framework .cs-nav ul li a:hover { color: #333; }
+.cs-framework .cs-nav ul ul { border-bottom-color: #eee; }
+.cs-framework .cs-nav ul ul::before { background-color: #eee; }
+.cs-framework .cs-nav ul ul li a {
+    padding: 12px 12px 12px 24px;
+    background-color: transparent;
+    border-bottom-color: #eee;
+}
+.cs-framework .cs-nav ul li .cs-section-active,
+.cs-framework .cs-nav ul ul li .cs-section-active {
+    background-color: #fff;
+    color: #333;
+}
+
+/**
+* Element container
+*/
+.cs-framework .cs-body:before,
+.cs-framework .cs-body:after {
+    display: table;
+    content: "";
+}
+.cs-framework .cs-body:after {
+    clear: both;
+}
+.cs-framework .cs-content .cs-section-title { background-color: #00a0d2; }
+.cs-element .cs-title { width: 35%; }
+.cs-field-heading,
+.cs-field-subheading,
+.cs-element .cs-title h4 {
+    color: #333;
+    font-weight: 400;
+}
+.cs-element .cs-fieldset { margin-left: 38%; }
+.cs-field-switcher .cs-text-desc {
+    margin: 0;
+    clear: both;
+}
+.cs-field-switcher label em { background-color: #c5c5c5; }
+.cs-field-switcher label input:checked ~ em { background-color: #00a0d2; }
+.cs-element input[type="text"],
+.cs-element input[type="number"],
+.cs-element select,
+.cs-element textarea {
+    width: 100%;
+    padding: 6px 8px;
+}
+.cs-element input[type="text"],
+.cs-element input[type="number"],
+.cs-element select { height: 34px; }
+.cs-fieldset .wp-editor-wrap {
+    float: left;
+    width: 100%;
+}
+.cs-fieldset .wp-editor-tools {
+    padding-top: 0 !important;
+    background-color: transparent !important;
+}
+.cs-field-upload { position: relative; }
+.cs-field-upload input[type="text"] { padding-right: 75px; }
+.cs-field-upload .button {
+    position: absolute;
+    top: 4px;
+    right: 2px;
+}
+
+.cs-field-color-picker {
+    padding: 3px 5px !important;
+    height: auto !important;
+}
+
+.cs-field-checkbox ul,
+.cs-field-radio ul {
+    overflow-y: hidden;
+    max-height: auto;
+}
+
+#_massive_page_options .cs-icon {
+    position: relative;
+    top: 2px;
+    margin-right: 10px;
+}
+
+.chosen-container-single .chosen-single {
+    height: 34px;
+    line-height: 34px;
+    border-radius: 0;
+    border-color: #ddd;
+    background: #fff;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.07) inset;
+}
+
+.chosen-container-single .chosen-single div b {
+    background-position: 0 7px;
+}
+
+.chosen-container-active.chosen-with-drop .chosen-single {
+    border-color: #ddd;
+}
+
+.chosen-container-active.chosen-with-drop .chosen-single div b {
+    background-position: -18px 7px;
+}
+
+.chosen-container .chosen-drop {
+    border-radius: 0;
+    border-color: #ddd;
+}
+
+/**
+ * Tb Typography
+ */
+.cs_font_field {
+    margin-bottom: 10px;
+}
+.cs_font_fields .cs-element {
+    padding: 0;
+    border: 0;
+}
+
+.cs_font_field label {
+    display: inline-block;
+    width: 30%;
+    font-style: italic;
+}
+
+.cs_font_field .chosen-container-single,
+.cs_font_field input[type="text"] {
+    width: 70% !important;
+}
+
+.cs_font_field input[type="text"] {
+    display: inline-block;
+    margin: 0 !important;
+}
+
+/**
+ * Mega menu
+ */
+.menu-item-settings:before,
+.menu-item-settings:after {
+    display: table;
+    content: "";
+}
+
+.menu-item-settings:after {
+    clear: both;
+}
+
+.menu-item-icon-wrapper {
+    margin: 5px 0 10px;
+}
+
+.field-icon-label {
+    margin: 2px 0 5px;
+    color: #666;
+    font-size: 13px;
+    font-style: italic;
+    float: left;
+}
+
+.menu-item-icon {
+    float: left;
+    clear: both;
+    width: 50px;
+    height: 50px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    color: #23282d;
+    background: #fafafa;
+    font-size: 18px;
+    text-align: center;
+    box-shadow: 0 1px 2px rgba(0,0,0,.07);
+}
+
+.menu-item-icon:hover,
+.menu-item-icon:focus {
+    border-color: #999;
+}
+
+.menu-item-icon .fa {
+    line-height: 48px;
+}
+
+.menu-icon-list-wrapper {
+    float: left;
+    width: 100%;
+}
+
+.menu-icon-list {
+    margin: 5px 0 0;
+    padding: 7px 0 0 1px;
+    max-height: 200px;
+    overflow: auto;
+}
+
+.menu-icon-list-item {
+    float: left;
+    width: 40px;
+    height: 40px;
+    margin: -1px 0 0 -1px;
+    border: 1px solid #ddd;
+    text-align: center;
+    line-height: 40px;
+    cursor: pointer;
+    color: #666;
+}
+
+.menu-icon-list-item:hover,
+.menu-icon-list-item:focus {
+    position: relative;
+    z-index: 1;
+    border-color: #999;
+    background: #fafafa;
+    -webkit-transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    transform: scale(1.3);
+    color: #23282d;
+}
+
+.massive-main > .ab-item > img {
+    display: inline-block;
+    top: 6px;
+    position: relative !important;
+    margin-right: 5px !important;
+}

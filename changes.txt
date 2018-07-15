@@ -1,0 +1,152 @@
+Version 2.3.1 (17 April 2017)
+=============================
+[Update]
+~ Massive Engine - 1.3.0
+~ Demo content xml file
+~ Translation .pot file
+
+[Fix]
+~ Post shortcode custom excerpt issue
+
+
+Version 2.3.0 (28 March 2017)
+=============================
+[Update]
+~ Slider Revolution - 5.4.1
+~ Visual Composer - 5.1
+~ Massive Engine - 1.2.9
+
+[Fix]
+~ Custom progress bar animation
+~ WooCommerce repeating error/info/success message
+
+
+Version 2.2.0 (23 Jan 2017)
+=============================
+[Update]
+~ Visual Composer [5.0.1]
+~ Slider Revolution [5.3.1.5]
+~ Massive Engine [1.2.8]
+~ WooCommerce 4.6.* support
+~ Language file
+
+[Fix]
+~ Product image size
+
+
+Version 2.1.2 (5 Nov 2016)
+=============================
+[Fix]
+~ Archive title sanitization
+~ Related portfolio carousel arrow
+~ Single portfolio description
+~ Retina logo url
+~ Unused assets enqueue
+
+[Update]
+~ Plugin dependencies
+~ Visual Composer [4.12.1]
+~ Slider Revolution [5.2.6]
+~ Massive Engine [1.2.7]
+~ Language file
+~ TGM class
+~ Navbar serach markup
+
+
+Version 2.1.1 (13 Aug 2016)
+=============================
+[Fix]
+~ Mailchimp fix
+~ Portfolio broken layout fix
+~ Removed unused script & declaration
+~ Navbar icon animation fix
+~ Static banner fix
+
+
+Version 2.1.0 (23 July 2016)
+=============================
+[Fixed]
+1. Megamenu title font size
+2. Megamenu widget wrapper padding
+3. Mobile navbar background color
+4. Menu line color
+
+[Update]
+1. WooCommerce 2.6.0 compatible
+2. Visual Composer [4.12]
+3. Revolution Slider [5.2]
+4. Massive Engine [1.2.6]
+
+[New]
+1. Added massive_header_logo_url:retina filter hook
+2. Added massive_header_logo_url:default filter hook
+3. Image support for Featured Box shortcode
+
+
+Version 2.0.0 (11 June 2016)
+=============================
+[Fixed]
+1. Header logo size
+2. Footer logo alignment
+3. Word break
+4. Navbar sticky animation
+5. Related post grid
+6. Paragraph typography
+7. Footer layout setting
+8. WooCommerce fatal in PHP 5.2
+9. Mobile menu overlap
+10. Onepage navigation (edited)
+
+[Updated]
+1. Header and Navbar remake
+2. Language template file (masive.pot)
+3. Simplified theme options panel
+4. Removed unused styles (edited)
+
+[New]
+1. Navbar compact mode
+2. Massive admin bar menu
+3. 4 themes support for Floating navbar
+
+
+Version 1.4.0 (17 May 2016)
+=============================
+[Fixed]
+1. Logo size fixed
+
+[Updated]
+1. Massive Engine 1.2.5
+2. Massive Engine code re-factor
+3. POT updated
+
+[New]
+1. Child theme added
+2. Rev slider demo content added
+3. Global override control for page footer
+
+
+Version 1.3.0 (12 May 2016)
+=============================
+[Fixed]
+1. Navigation search box design modified
+2. Portfolio "on hover" style fix
+3. Parallax fix for iPhone
+
+[Updated]
+1. Massive engine updated to 1.2
+2. Code re-factor
+3. Compatible with php 5.3
+4. Font awesome updated to latest
+
+
+Version 1.2.0 (6 May 2016)
+=============================
+[Fixed]
+1. Demo importer improved. Now faster than previous.
+Version 1.1 (5 May 2016 )
+
+
+=============================
+[Fixed]
+1. Demo importer issue fixed
+2. Minor issues are fixed

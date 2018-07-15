@@ -1,0 +1,4249 @@
+# Copyright (C) 2017 Theme Bucket <themebucket@gmail.com>
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Massive 2.3.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/massive\n"
+"POT-Creation-Date: 2017-04-17 10:59:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:23
+msgid "Not Found!"
+msgstr ""
+
+#: 404.php:29
+msgid "404"
+msgstr ""
+
+#: 404.php:31
+msgid "Take Me Home"
+msgstr ""
+
+#. #-#-#-#-#  massive.pot (Massive 2.3.1)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: admin/class.dashboard.php:22 admin/class.dashboard.php:68
+msgid "Massive"
+msgstr ""
+
+#: admin/class.dashboard.php:30 admin/class.dashboard.php:100
+#: includes/options/blog.php:197 vendors/breadcrumb-trail.php:246
+msgid "Home"
+msgstr ""
+
+#: admin/class.dashboard.php:38 admin/class.dashboard.php:71
+msgid "Plugin Installer"
+msgstr ""
+
+#: admin/class.dashboard.php:47 admin/class.dashboard.php:75
+msgid "Demo Installer"
+msgstr ""
+
+#: admin/class.dashboard.php:56 admin/class.dashboard.php:79
+#: includes/class.theme-options.php:18
+msgid "Theme Options"
+msgstr ""
+
+#: admin/class.dashboard.php:68
+msgid "Massive Dashboard"
+msgstr ""
+
+#: admin/class.dashboard.php:71
+msgid "Massive Plugins Installer"
+msgstr ""
+
+#: admin/class.dashboard.php:75
+msgid "Massive Demo Installer"
+msgstr ""
+
+#: admin/class.dashboard.php:79
+msgid "Massive Theme Options"
+msgstr ""
+
+#: admin/class.dashboard.php:108
+msgid "Massive multi-purpose WordPress theme"
+msgstr ""
+
+#: admin/class.dashboard.php:109
+msgid "Massive Official Logo"
+msgstr ""
+
+#: admin/class.dashboard.php:112
+msgid "Welcome to Massive %s"
+msgstr ""
+
+#. #-#-#-#-#  massive.pot (Massive 2.3.1)  #-#-#-#-#
+#. Description of the plugin/theme
+#: admin/class.dashboard.php:113
+msgid ""
+"Massive is a multi-purpose WordPress Theme that comes with huge collection "
+"of ready made templates. You can pick any one of those templates to get "
+"started your AWESOME project."
+msgstr ""
+
+#: admin/class.dashboard.php:121
+msgid ""
+"\"A journey of a thousand miles begins with a single step\". Thank you for "
+"purchasing Massive."
+msgstr ""
+
+#: admin/class.dashboard.php:213 admin/class.dashboard.php:258
+msgid "Install %s"
+msgstr ""
+
+#: admin/class.dashboard.php:214
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: admin/class.dashboard.php:233
+msgid "Activate %s"
+msgstr ""
+
+#: admin/class.dashboard.php:234
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: admin/class.dashboard.php:259
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: admin/class.dashboard.php:276
+msgid "Deactivate %s"
+msgstr ""
+
+#: admin/class.dashboard.php:277
+msgid "Deactivate"
+msgstr ""
+
+#: admin/pages/main.php:4
+msgid "Online Documentation"
+msgstr ""
+
+#: admin/pages/main.php:5
+msgid ""
+"Checkout Massive online documentation and stay up to date. It is very "
+"detailed and easy to use and navigate."
+msgstr ""
+
+#: admin/pages/main.php:6
+msgid "Read Online"
+msgstr ""
+
+#: admin/pages/main.php:9
+msgid "Required Plugin Installer"
+msgstr ""
+
+#: admin/pages/main.php:10
+msgid ""
+"Massive depends on <strong>Massive Engine (must use)</strong> as well as "
+"some 3rd party plugins. Install those plugins according to your need."
+msgstr ""
+
+#: admin/pages/main.php:11
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/pages/main.php:14
+msgid "One Click Demo Installer"
+msgstr ""
+
+#: admin/pages/main.php:15
+msgid ""
+"Massive integrated <strong>One Click</strong> demo installation feature. You "
+"can easily import all the demo data within a few minutes."
+msgstr ""
+
+#: admin/pages/main.php:18
+msgid "Install Demo"
+msgstr ""
+
+#: admin/pages/main.php:20
+msgid "Install: One Click Demo Import"
+msgstr ""
+
+#: admin/pages/main.php:24
+msgid "Theme Options Panel"
+msgstr ""
+
+#: admin/pages/main.php:25
+msgid ""
+"Massive has very intuitive and rich theme options panel. You can control "
+"almost everything from the panel."
+msgstr ""
+
+#: admin/pages/main.php:26
+msgid "Setup Options"
+msgstr ""
+
+#: admin/pages/plugins.php:28
+msgid "Active:"
+msgstr ""
+
+#: admin/pages/plugins.php:37
+msgid "Update Available: Version %s"
+msgstr ""
+
+#: admin/pages/plugins.php:41
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: comment-form.php:17
+msgid "Name*"
+msgstr ""
+
+#: comment-form.php:24
+msgid "Email*"
+msgstr ""
+
+#: comment-form.php:30
+msgid "Website"
+msgstr ""
+
+#: comment-form.php:36
+msgid "Post Your Comment"
+msgstr ""
+
+#: comment-form.php:39
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comment-form.php:39
+msgid "Email and Name is required."
+msgstr ""
+
+#: comment-form.php:43
+msgid "Comment"
+msgstr ""
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:36 comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:39 comments.php:62
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:40 comments.php:63
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr ""
+
+#: demo_templates/blog-2-grid.php:28 demo_templates/blog-3-grid.php:28
+#: demo_templates/blog-4-grid.php:28
+#: demo_templates/blog-classic-2-Listing.php:27
+#: demo_templates/blog-classic-fullwidth.php:27
+#: demo_templates/blog-classic-sidebar-left.php:27
+#: demo_templates/blog-classic-sidebar-right.php:27
+#: demo_templates/blog-masonry-2-grid.php:27
+#: demo_templates/blog-masonry-3-grid.php:27
+#: demo_templates/blog-masonry-4-grid.php:27
+#: demo_templates/blog-masonry-fullwidth.php:27
+#: demo_templates/home-blog-3-grid.php:26
+#: demo_templates/home-blog-classic-2-Listing.php:24
+#: demo_templates/home-blog-classic-fullwidth.php:25
+#: demo_templates/home-blog-classic-sidebar-left.php:25
+#: demo_templates/home-blog-classic-sidebar-right.php:25
+#: demo_templates/home-blog-masonry-3-grid.php:25 home.php:31 index.php:31
+#: page.php:57
+msgid "Page Content"
+msgstr ""
+
+#: demo_templates/blog-details-fullwidth.php:17
+#: demo_templates/blog-details-sidebar-left.php:17
+#: demo_templates/blog-details-sidebar-right.php:17
+#: includes/options/blog.php:283 includes/options/blog.php:308 single.php:20
+msgid "Post Content"
+msgstr ""
+
+#: demo_templates/partials/blog/classic/one.php:34
+#: demo_templates/partials/blog/classic/two.php:45
+#: demo_templates/partials/blog/grid/main.php:38
+#: demo_templates/partials/blog/masonry/main.php:30
+#: demo_templates/partials/content-single.php:24
+#: includes/functions.filter.php:31 includes/functions.portfolio.php:39
+#: includes/functions.template.php:287 includes/functions.template.php:307
+#: includes/woocommerce/filters/archive.php:65
+#: includes/woocommerce/filters/related.php:48
+#: includes/woocommerce/filters/related.php:55
+#: includes/woocommerce/filters/single.php:68 partials/blog/classic/one.php:36
+#: partials/blog/classic/two.php:46 partials/blog/grid/main.php:39
+#: partials/blog/masonry/main.php:30 partials/content-search.php:15
+#: partials/content-single.php:24
+msgid "Permalink to: %s"
+msgstr ""
+
+#: demo_templates/partials/blog/common/title.php:25
+#: partials/blog/common/title.php:25
+msgid "Post Heading"
+msgstr ""
+
+#: demo_templates/partials/content-single.php:54
+#: includes/class.attachment-meta.php:18 includes/options/blog.php:350
+#: partials/content-single.php:52
+msgid "Tags"
+msgstr ""
+
+#: demo_templates/partials/content-single.php:62 partials/content-single.php:60
+msgid "Share This Post"
+msgstr ""
+
+#: demo_templates/partials/content-single.php:70 partials/content-single.php:68
+msgid "Previous post: %s"
+msgstr ""
+
+#: demo_templates/partials/content-single.php:76
+#: demo_templates/partials/content-single.php:77 partials/content-single.php:74
+#: partials/content-single.php:75
+msgid "Go back to home"
+msgstr ""
+
+#: demo_templates/partials/content-single.php:82 partials/content-single.php:80
+msgid "Next post: %s"
+msgstr ""
+
+#: header.php:20
+msgid "Skip to content"
+msgstr ""
+
+#: home.php:14 includes/options/blog.php:7 includes/options/blog.php:204
+#: index.php:14 search.php:16
+msgid "Blog"
+msgstr ""
+
+#: includes/animations.php:10
+msgid "bounce"
+msgstr ""
+
+#: includes/animations.php:11
+msgid "flash"
+msgstr ""
+
+#: includes/animations.php:12
+msgid "pulse"
+msgstr ""
+
+#: includes/animations.php:13
+msgid "rubberBand"
+msgstr ""
+
+#: includes/animations.php:14
+msgid "shake"
+msgstr ""
+
+#: includes/animations.php:15
+msgid "swing"
+msgstr ""
+
+#: includes/animations.php:16
+msgid "tada"
+msgstr ""
+
+#: includes/animations.php:17
+msgid "wobble"
+msgstr ""
+
+#: includes/animations.php:18
+msgid "bounceIn"
+msgstr ""
+
+#: includes/animations.php:19
+msgid "bounceInDown"
+msgstr ""
+
+#: includes/animations.php:20
+msgid "bounceInLeft"
+msgstr ""
+
+#: includes/animations.php:21
+msgid "bounceInRight"
+msgstr ""
+
+#: includes/animations.php:22
+msgid "bounceInUp"
+msgstr ""
+
+#: includes/animations.php:23
+msgid "bounceOut"
+msgstr ""
+
+#: includes/animations.php:24
+msgid "bounceOutDown"
+msgstr ""
+
+#: includes/animations.php:25
+msgid "bounceOutLeft"
+msgstr ""
+
+#: includes/animations.php:26
+msgid "bounceOutRight"
+msgstr ""
+
+#: includes/animations.php:27
+msgid "bounceOutUp"
+msgstr ""
+
+#: includes/animations.php:28
+msgid "fadeIn"
+msgstr ""
+
+#: includes/animations.php:29
+msgid "fadeInDown"
+msgstr ""
+
+#: includes/animations.php:30
+msgid "fadeInDownBig"
+msgstr ""
+
+#: includes/animations.php:31
+msgid "fadeInLeft"
+msgstr ""
+
+#: includes/animations.php:32
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: includes/animations.php:33
+msgid "fadeInRight"
+msgstr ""
+
+#: includes/animations.php:34
+msgid "fadeInRightBig"
+msgstr ""
+
+#: includes/animations.php:35
+msgid "fadeInUp"
+msgstr ""
+
+#: includes/animations.php:36
+msgid "fadeInUpBig"
+msgstr ""
+
+#: includes/animations.php:37
+msgid "fadeOut"
+msgstr ""
+
+#: includes/animations.php:38
+msgid "fadeOutDown"
+msgstr ""
+
+#: includes/animations.php:39
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: includes/animations.php:40
+msgid "fadeOutLeft"
+msgstr ""
+
+#: includes/animations.php:41
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: includes/animations.php:42
+msgid "fadeOutRight"
+msgstr ""
+
+#: includes/animations.php:43
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: includes/animations.php:44
+msgid "fadeOutUp"
+msgstr ""
+
+#: includes/animations.php:45
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: includes/animations.php:46
+msgid "flip"
+msgstr ""
+
+#: includes/animations.php:47
+msgid "flipRole"
+msgstr ""
+
+#: includes/animations.php:48
+msgid "flipInX"
+msgstr ""
+
+#: includes/animations.php:49
+msgid "flipInY"
+msgstr ""
+
+#: includes/animations.php:50
+msgid "flipOutY"
+msgstr ""
+
+#: includes/animations.php:51
+msgid "lightSpeedIn"
+msgstr ""
+
+#: includes/animations.php:52
+msgid "lightSpeedOut"
+msgstr ""
+
+#: includes/animations.php:53
+msgid "rotateIn"
+msgstr ""
+
+#: includes/animations.php:54
+msgid "rotateInDownRight"
+msgstr ""
+
+#: includes/animations.php:55
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: includes/animations.php:56
+msgid "rotateInUpRight"
+msgstr ""
+
+#: includes/animations.php:57
+msgid "rotateOut"
+msgstr ""
+
+#: includes/animations.php:58
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: includes/animations.php:59
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: includes/animations.php:60
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: includes/animations.php:61
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: includes/animations.php:62
+msgid "slideInUp"
+msgstr ""
+
+#: includes/animations.php:63
+msgid "slideInDown"
+msgstr ""
+
+#: includes/animations.php:64
+msgid "slideInLeft"
+msgstr ""
+
+#: includes/animations.php:65
+msgid "slideInRight"
+msgstr ""
+
+#: includes/animations.php:66
+msgid "slideOutUp"
+msgstr ""
+
+#: includes/animations.php:67
+msgid "slideOutDown"
+msgstr ""
+
+#: includes/animations.php:68
+msgid "slideOutLeft"
+msgstr ""
+
+#: includes/animations.php:69
+msgid "slideOutRight"
+msgstr ""
+
+#: includes/animations.php:70
+msgid "zoomIn"
+msgstr ""
+
+#: includes/animations.php:71
+msgid "zoomInDown"
+msgstr ""
+
+#: includes/animations.php:72
+msgid "zoomInLeft"
+msgstr ""
+
+#: includes/animations.php:73
+msgid "zoomInRight"
+msgstr ""
+
+#: includes/animations.php:74
+msgid "zoomInUp"
+msgstr ""
+
+#: includes/animations.php:75
+msgid "zoomOut"
+msgstr ""
+
+#: includes/animations.php:76
+msgid "zoomOutDown"
+msgstr ""
+
+#: includes/animations.php:77
+msgid "zoomOutLeft"
+msgstr ""
+
+#: includes/animations.php:78
+msgid "zoomOutRight"
+msgstr ""
+
+#: includes/animations.php:79
+msgid "zoomOutUp"
+msgstr ""
+
+#: includes/animations.php:80
+msgid "hinge"
+msgstr ""
+
+#: includes/animations.php:81
+msgid "rollIn"
+msgstr ""
+
+#: includes/animations.php:82
+msgid "rollOut"
+msgstr ""
+
+#: includes/class.attachment-meta.php:21
+msgid "Separate tags with commas"
+msgstr ""
+
+#: includes/class.attachment-meta.php:24 includes/options/social.php:60
+msgid "Link"
+msgstr ""
+
+#: includes/class.demo-controller.php:31
+msgid "Massive One Click Demo Importer"
+msgstr ""
+
+#: includes/class.demo-controller.php:66
+msgid ""
+"As you already know it is <strong>Massive</strong>! And to carry its "
+"signature, it contains around 250MB attachments (image mainly). So, "
+"depending on your internet connection speed it may take approximately 5-8 "
+"minutes."
+msgstr ""
+
+#: includes/class.demo-controller.php:69
+msgid ""
+"<strong>Note:</strong> If you face any unexpected situation then click on "
+"the <strong>Import Demo Data</strong> button again. Happy Journey."
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by Arizonia, translate this to 'off'. Do not translate into your own
+#. language.
+#: includes/class.fonts.php:30
+msgctxt "Arizonia font: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: includes/class.fonts.php:36
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/class.gallery-uploader.php:14
+msgid "Massive Gallery"
+msgstr ""
+
+#: includes/class.gallery-uploader.php:16
+msgid "Add an image gallery to sidebar."
+msgstr ""
+
+#: includes/class.gallery-uploader.php:60
+msgid "Massive Gallery Widget"
+msgstr ""
+
+#: includes/class.gallery-uploader.php:65
+#: vendors/cs-framework/fields/gallery/gallery.php:21
+msgid "Add Gallery"
+msgstr ""
+
+#: includes/class.gallery-uploader.php:68
+msgid "Update Gallery"
+msgstr ""
+
+#: includes/class.gallery-uploader.php:72 includes/class.image-uploader.php:76
+msgid "Title:"
+msgstr ""
+
+#: includes/class.gallery-uploader.php:78
+msgid "Gallery Images:"
+msgstr ""
+
+#: includes/class.image-uploader.php:15
+msgid "Massive Image"
+msgstr ""
+
+#: includes/class.image-uploader.php:17
+msgid "Add a single image to sidebar."
+msgstr ""
+
+#: includes/class.image-uploader.php:66
+msgid "Massive Image Widget"
+msgstr ""
+
+#: includes/class.image-uploader.php:73
+#: vendors/cs-framework/fields/image/image.php:22
+msgid "Add Image"
+msgstr ""
+
+#: includes/class.image-uploader.php:82
+msgid "Image:"
+msgstr ""
+
+#: includes/class.image-uploader.php:88
+msgid "Change Image"
+msgstr ""
+
+#: includes/class.image-uploader.php:96
+msgid "Target URL:"
+msgstr ""
+
+#: includes/class.image-uploader.php:101
+msgid "Open In New Window"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: includes/class.megamenu-walker-edit.php:65
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: includes/class.megamenu-walker-edit.php:69
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/class.megamenu-walker-edit.php:82
+msgid "sub item"
+msgstr ""
+
+#: includes/class.megamenu-walker-edit.php:97
+msgid "Move up"
+msgstr ""
+
+#: includes/class.megamenu-walker-edit.php:110
+msgid "Move down"
+msgstr ""
+
+#: includes/class.megamenu-walker-edit.php:112
+#: includes/class.megamenu-walker-edit.php:114
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/class.megamenu-walker-edit.php:123
+msgid "URL"
+msgstr ""
+
+#: includes/class.megamenu-walker-edit.php:130
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/class.megamenu-walker-edit.php:136
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/class.megamenu-walker-edit.php:150
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/class.megamenu-walker-edit.php:155
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/class.megamenu-walker-edit.php:161
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/class.megamenu-walker-edit.php:167
+msgid "Description"
+msgstr ""
+
+#: includes/class.megamenu-walker-edit.php:169
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: includes/class.megamenu-walker-edit.php:175
+msgid "Move"
+msgstr ""
+
+#: includes/class.megamenu-walker-edit.php:176
+msgid "Up one"
+msgstr ""
+
+#: includes/class.megamenu-walker-edit.php:177
+msgid "Down one"
+msgstr ""
+
+#: includes/class.megamenu-walker-edit.php:180
+msgid "To the top"
+msgstr ""
+
+#: includes/class.megamenu-walker-edit.php:187
+msgid "Original: %s"
+msgstr ""
+
+#: includes/class.megamenu-walker-edit.php:200
+#: vendors/cs-framework/fields/group/group.php:43
+#: vendors/cs-framework/fields/group/group.php:75
+msgid "Remove"
+msgstr ""
+
+#: includes/class.megamenu-walker-edit.php:201
+#: woocommerce/myaccount/orders.php:76
+msgid "Cancel"
+msgstr ""
+
+#: includes/class.megamenu-walker.php:321
+msgid "Add a menu"
+msgstr ""
+
+#: includes/class.megamenu.php:54
+msgid "Menu Icon (Click on the box to change icon)"
+msgstr ""
+
+#: includes/class.megamenu.php:75
+msgid "Enable Massive Mega Menu"
+msgstr ""
+
+#: includes/class.megamenu.php:79
+msgid "Mega Menu Width"
+msgstr ""
+
+#: includes/class.megamenu.php:84 includes/metabox/page/header.php:73
+#: includes/options/header.php:56
+msgid "Full Width (100%)"
+msgstr ""
+
+#: includes/class.megamenu.php:85
+msgid "Half Width (50%)"
+msgstr ""
+
+#: includes/class.megamenu.php:86
+msgid "Quarter Width (25%)"
+msgstr ""
+
+#: includes/class.megamenu.php:99
+msgid "Hide Mega Menu Column Title"
+msgstr ""
+
+#: includes/class.megamenu.php:103
+msgid "Mega Menu Column Width"
+msgstr ""
+
+#: includes/class.megamenu.php:109
+msgid "Column %s of 12 (%s)"
+msgid_plural "Columns %s of 12 (%s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class.megamenu.php:115
+msgid "Mega Menu Widget Area"
+msgstr ""
+
+#: includes/class.megamenu.php:117
+msgid "Blank Widget Area"
+msgstr ""
+
+#: includes/class.sidebars.php:18
+msgid "Primary Sidebar"
+msgstr ""
+
+#: includes/class.sidebars.php:28
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: includes/class.sidebars.php:38
+msgid "Shop Sidebar"
+msgstr ""
+
+#: includes/class.sidebars.php:48
+msgid "Footer First Column"
+msgstr ""
+
+#: includes/class.sidebars.php:58
+msgid "Footer Second Column"
+msgstr ""
+
+#: includes/class.sidebars.php:68
+msgid "Footer Third Column"
+msgstr ""
+
+#: includes/class.sidebars.php:78
+msgid "Footer Fourth Column"
+msgstr ""
+
+#: includes/class.sidebars.php:93
+msgid "Dynamic Sidebar %s"
+msgstr ""
+
+#: includes/class.theme-setup.php:108
+msgid "Primary Menu"
+msgstr ""
+
+#: includes/class.walker-comment.php:24
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#. translators: 1: comment date, 2: comment time
+#: includes/class.walker-comment.php:31
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/class.walker-comment.php:35 woocommerce/myaccount/my-address.php:48
+msgid "Edit"
+msgstr ""
+
+#: includes/class.walker-comment.php:48
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/functions.filesystem.php:27
+msgid "File doesn't exist"
+msgstr ""
+
+#: includes/functions.filesystem.php:30
+msgid "Cannot initialize filesystem"
+msgstr ""
+
+#: includes/functions.filter.php:26 includes/options/blog.php:160
+msgid "Continue Reading"
+msgstr ""
+
+#: includes/functions.helper.php:108
+msgid "Full Size"
+msgstr ""
+
+#: includes/functions.helper.php:109
+msgid "Large Size [1000x999999]"
+msgstr ""
+
+#: includes/functions.helper.php:110
+msgid "Medium Size [650x999999]"
+msgstr ""
+
+#: includes/functions.helper.php:185
+msgid "Type: %s"
+msgstr ""
+
+#: includes/functions.helper.php:188
+msgid "Banner Default Title"
+msgstr ""
+
+#: includes/functions.portfolio.php:18 includes/options/portfolio.php:97
+msgid "Related Portfolio"
+msgstr ""
+
+#: includes/functions.portfolio.php:58
+msgid "All"
+msgstr ""
+
+#: includes/functions.template.php:68
+msgid "Posted by %s"
+msgstr ""
+
+#: includes/functions.template.php:83
+msgid "View all posts in %s"
+msgstr ""
+
+#: includes/functions.template.php:97
+msgid "No Comments"
+msgstr ""
+
+#: includes/functions.template.php:99
+msgid "Comments"
+msgstr ""
+
+#: includes/functions.template.php:101 includes/template-tags.php:64
+msgid "1 Comment"
+msgstr ""
+
+#: includes/functions.template.php:105
+msgid "Comments are off for this post."
+msgstr ""
+
+#: includes/functions.template.php:125
+#: includes/woocommerce/filters/archive.php:136
+msgid "Prev"
+msgstr ""
+
+#: includes/functions.template.php:126
+#: includes/woocommerce/filters/archive.php:137 single-portfolio.php:33
+#: woocommerce/myaccount/orders.php:111
+msgid "Next"
+msgstr ""
+
+#: includes/functions.template.php:262
+msgid "Related Post"
+msgstr ""
+
+#: includes/functions.template.php:347
+msgid ""
+"Select portfolio categories (Leave empty to display from all categories)"
+msgstr ""
+
+#: includes/functions.template.php:349
+msgid ""
+"You may did not added any portfolio category yet. You can add categories "
+"over here %s"
+msgstr ""
+
+#: includes/functions.template.php:369 searchform.php:14 searchform.php:17
+msgid "Search"
+msgstr ""
+
+#: includes/functions.template.php:372 searchform.php:12 searchform.php:17
+msgid "Search for:"
+msgstr ""
+
+#: includes/functions.template.php:373
+msgid "Search Here..."
+msgstr ""
+
+#: includes/functions.template.php:385
+msgid "View Shopping Cart"
+msgstr ""
+
+#: includes/functions.template.php:385
+msgid "Cart (%s)"
+msgstr ""
+
+#: includes/metabox/banner/bs.php:5
+msgid "BS Banner Settings"
+msgstr ""
+
+#: includes/metabox/banner/bs.php:12 includes/metabox/banner/elastic.php:12
+#: includes/metabox/banner/flex.php:12 includes/metabox/banner/owl.php:12
+#: includes/metabox/banner/static.php:12
+msgid "Banner Settings"
+msgstr ""
+
+#: includes/metabox/banner/bs.php:17 includes/metabox/banner/elastic.php:17
+#: includes/metabox/banner/flex.php:17 includes/metabox/banner/owl.php:17
+#: includes/metabox/banner/static.php:17
+msgid "Banner Layout"
+msgstr ""
+
+#: includes/metabox/banner/bs.php:21
+msgid "Massive Default (Full Screen)"
+msgstr ""
+
+#: includes/metabox/banner/bs.php:28 includes/metabox/banner/elastic.php:42
+#: includes/metabox/banner/flex.php:48 includes/metabox/banner/owl.php:42
+#: includes/metabox/banner/static.php:85
+msgid "Banner Contents"
+msgstr ""
+
+#: includes/metabox/banner/bs.php:34 includes/metabox/banner/elastic.php:48
+#: includes/metabox/banner/flex.php:54 includes/metabox/banner/owl.php:48
+msgid "Add New Slide"
+msgstr ""
+
+#: includes/metabox/banner/bs.php:35 includes/metabox/banner/elastic.php:49
+#: includes/metabox/banner/flex.php:55 includes/metabox/banner/owl.php:49
+msgid "Banner Slide"
+msgstr ""
+
+#: includes/metabox/banner/bs.php:39 includes/metabox/banner/elastic.php:53
+#: includes/metabox/banner/flex.php:59 includes/metabox/banner/owl.php:53
+msgid "Banner Title"
+msgstr ""
+
+#: includes/metabox/banner/bs.php:41 includes/metabox/banner/elastic.php:55
+msgid "This title will not be shown on front end."
+msgstr ""
+
+#: includes/metabox/banner/bs.php:45 includes/metabox/banner/elastic.php:59
+#: includes/metabox/banner/flex.php:64 includes/metabox/banner/owl.php:58
+msgid "Banner Image"
+msgstr ""
+
+#: includes/metabox/banner/bs.php:47
+msgid "Minimum size: %s Best size: %s"
+msgstr ""
+
+#: includes/metabox/banner/bs.php:51 includes/metabox/banner/elastic.php:64
+#: includes/metabox/banner/static.php:95
+msgid "Banner Content"
+msgstr ""
+
+#: includes/metabox/banner/bs.php:53 includes/metabox/banner/elastic.php:66
+#: includes/metabox/banner/static.php:97
+msgid ""
+"You can add any contents here including HTML tags & shortcodes. All contents "
+"will follow default styles. But you can style them however you want."
+msgstr ""
+
+#: includes/metabox/banner/bs.php:57
+msgid "Animation"
+msgstr ""
+
+#: includes/metabox/banner/elastic.php:5
+msgid "Elastic Banner Settings"
+msgstr ""
+
+#: includes/metabox/banner/elastic.php:21
+msgid "Massive Default (Height: 500px)"
+msgstr ""
+
+#: includes/metabox/banner/elastic.php:22 includes/metabox/banner/flex.php:22
+#: includes/metabox/banner/owl.php:22 includes/metabox/banner/static.php:23
+#: includes/options/social.php:8
+msgid "Custom"
+msgstr ""
+
+#: includes/metabox/banner/elastic.php:27 includes/metabox/banner/flex.php:27
+#: includes/metabox/banner/owl.php:27 includes/metabox/banner/static.php:28
+msgid "Custom Height"
+msgstr ""
+
+#: includes/metabox/banner/elastic.php:30 includes/metabox/banner/flex.php:30
+#: includes/metabox/banner/owl.php:30 includes/metabox/banner/static.php:31
+#: includes/metabox/banner/static.php:73
+msgid "Add a custom height in pixel. Default unit is %s"
+msgstr ""
+
+#: includes/metabox/banner/flex.php:5
+msgid "Flex Banner Settings"
+msgstr ""
+
+#: includes/metabox/banner/flex.php:21 includes/metabox/banner/owl.php:21
+msgid "Massive Default (Height: 580px)"
+msgstr ""
+
+#: includes/metabox/banner/flex.php:40
+msgid "Display Thumbnail"
+msgstr ""
+
+#: includes/metabox/banner/owl.php:5
+msgid "Owl Banner Settings"
+msgstr ""
+
+#: includes/metabox/banner/static.php:5
+msgid "Image Banner Settings"
+msgstr ""
+
+#: includes/metabox/banner/static.php:21
+msgid "Full Screen"
+msgstr ""
+
+#: includes/metabox/banner/static.php:22
+msgid "Massive Default(Height: 600px)"
+msgstr ""
+
+#: includes/metabox/banner/static.php:41
+msgid "Content Layout"
+msgstr ""
+
+#: includes/metabox/banner/static.php:45 includes/options/blog.php:214
+#: includes/options/blog.php:331 includes/options/portfolio.php:22
+#: includes/options/woocommerce.php:17
+msgid "Boxed"
+msgstr ""
+
+#: includes/metabox/banner/static.php:46
+msgid "Wide"
+msgstr ""
+
+#: includes/metabox/banner/static.php:51 includes/metabox/page/footer.php:42
+#: includes/metabox/page/header.php:79 includes/metabox/page/header.php:93
+#: includes/options/header.php:62 includes/options/header.php:76
+msgid "Theme"
+msgstr ""
+
+#: includes/metabox/banner/static.php:56 includes/metabox/page/footer.php:107
+#: includes/metabox/page/header.php:84 includes/metabox/page/header.php:98
+#: includes/options/footer.php:111 includes/options/header.php:67
+#: includes/options/header.php:81
+msgid "Light Theme"
+msgstr ""
+
+#: includes/metabox/banner/static.php:57 includes/metabox/page/footer.php:47
+#: includes/metabox/page/footer.php:105 includes/metabox/page/header.php:85
+#: includes/metabox/page/header.php:99 includes/options/footer.php:31
+#: includes/options/footer.php:109 includes/options/header.php:68
+#: includes/options/header.php:82
+msgid "Dark Theme"
+msgstr ""
+
+#: includes/metabox/banner/static.php:58
+msgid "Custom Theme"
+msgstr ""
+
+#: includes/metabox/banner/static.php:63 includes/options/general.php:27
+msgid "Custom Theme Color"
+msgstr ""
+
+#: includes/metabox/banner/static.php:70 includes/options/advanced.php:53
+msgid "Width"
+msgstr ""
+
+#: includes/metabox/banner/static.php:90
+msgid "Background Image"
+msgstr ""
+
+#: includes/metabox/banner/type.php:5
+msgid "Massive Banner Types"
+msgstr ""
+
+#: includes/metabox/banner/type.php:17 includes/shortcode-map.php:20
+msgid "Bootstrap"
+msgstr ""
+
+#: includes/metabox/banner/type.php:18
+msgid "Elastic"
+msgstr ""
+
+#: includes/metabox/banner/type.php:19
+msgid "Flex"
+msgstr ""
+
+#: includes/metabox/banner/type.php:20
+msgid "Owl"
+msgstr ""
+
+#: includes/metabox/banner/type.php:21
+msgid "Static Image"
+msgstr ""
+
+#: includes/metabox/page/banner.php:4
+msgid "Banner"
+msgstr ""
+
+#: includes/metabox/page/banner.php:10 includes/metabox/page/footer.php:10
+#: includes/metabox/page/title.php:10 includes/metabox/page/title.php:125
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: includes/metabox/page/banner.php:11
+msgid "Switch on to enable banner or slider."
+msgstr ""
+
+#: includes/metabox/page/banner.php:17
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: includes/metabox/page/banner.php:18
+msgid "Select banner type from dropdown."
+msgstr ""
+
+#: includes/metabox/page/banner.php:20 includes/metabox/page/banner.php:27
+msgid "Massive Banner"
+msgstr ""
+
+#: includes/metabox/page/banner.php:21 includes/metabox/page/banner.php:35
+msgid "Slider Revolution"
+msgstr ""
+
+#: includes/metabox/page/banner.php:28
+msgid "Select a banner from dropdown or create a new banner from %s page."
+msgstr ""
+
+#: includes/metabox/page/banner.php:30
+msgid "--Activate Helper Plugin--"
+msgstr ""
+
+#: includes/metabox/page/banner.php:36
+msgid "Select a slider from dropdown or create a new one from %s page."
+msgstr ""
+
+#: includes/metabox/page/banner.php:38
+msgid "--Activate Slider Revolution--"
+msgstr ""
+
+#: includes/metabox/page/footer.php:4 includes/options/footer.php:7
+msgid "Footer"
+msgstr ""
+
+#: includes/metabox/page/footer.php:11
+msgid ""
+"Switch on to enable page footer. Or disable it if you want to hide or "
+"disable page footer."
+msgstr ""
+
+#: includes/metabox/page/footer.php:17 includes/metabox/page/header.php:10
+msgid "Override Global"
+msgstr ""
+
+#: includes/metabox/page/footer.php:18
+msgid "Switch on to override global footer settings."
+msgstr ""
+
+#: includes/metabox/page/footer.php:23 includes/options/general.php:57
+#: includes/options/typography.php:9
+msgid "General"
+msgstr ""
+
+#: includes/metabox/page/footer.php:29 includes/metabox/page/header.php:50
+#: includes/metabox/page/page.php:27 includes/metabox/page/title.php:16
+#: includes/options/blog.php:210 includes/options/blog.php:327
+#: includes/options/header.php:34 includes/options/portfolio.php:18
+#: includes/options/woocommerce.php:13
+msgid "Layout"
+msgstr ""
+
+#: includes/metabox/page/footer.php:30
+msgid "Select footer layout form dropdown."
+msgstr ""
+
+#: includes/metabox/page/footer.php:34 includes/options/footer.php:20
+msgid "Widgetized Footer"
+msgstr ""
+
+#: includes/metabox/page/footer.php:35 includes/options/footer.php:21
+msgid "With Footer Logo"
+msgstr ""
+
+#: includes/metabox/page/footer.php:36 includes/options/footer.php:22
+msgid "With Footer Logo (Pulled Up)"
+msgstr ""
+
+#: includes/metabox/page/footer.php:43
+msgid "Select footer theme from downdown."
+msgstr ""
+
+#: includes/metabox/page/footer.php:48 includes/metabox/page/footer.php:106
+#: includes/options/footer.php:32 includes/options/footer.php:110
+msgid "Gray Theme"
+msgstr ""
+
+#: includes/metabox/page/footer.php:53 includes/metabox/page/header.php:16
+msgid "Brand Logo"
+msgstr ""
+
+#: includes/metabox/page/footer.php:59 includes/metabox/page/header.php:21
+#: includes/options/footer.php:43 includes/options/header.php:15
+msgid "Default Logo"
+msgstr ""
+
+#: includes/metabox/page/footer.php:60 includes/metabox/page/header.php:22
+#: includes/options/footer.php:44
+msgid "Select an image for your logo."
+msgstr ""
+
+#: includes/metabox/page/footer.php:67 includes/metabox/page/header.php:28
+#: includes/options/footer.php:50 includes/options/header.php:21
+msgid "Retina Logo"
+msgstr ""
+
+#: includes/metabox/page/footer.php:68 includes/metabox/page/header.php:29
+#: includes/options/footer.php:51 includes/options/header.php:22
+msgid ""
+"Select an image for the retina version of the logo. It should be exactly 2x "
+"the size of main logo."
+msgstr ""
+
+#: includes/metabox/page/footer.php:74
+msgid "Widget Area"
+msgstr ""
+
+#: includes/metabox/page/footer.php:80 includes/options/footer.php:62
+msgid "Widget Area Columns"
+msgstr ""
+
+#: includes/metabox/page/footer.php:82 includes/options/footer.php:64
+msgid ""
+"Select number of columns for footer widget area. Setup widgets from %s "
+"settings page."
+msgstr ""
+
+#: includes/metabox/page/footer.php:85 includes/options/footer.php:67
+msgid "No Widget Area"
+msgstr ""
+
+#: includes/metabox/page/footer.php:86 includes/options/footer.php:68
+msgid "Column 1"
+msgstr ""
+
+#: includes/metabox/page/footer.php:87 includes/options/footer.php:69
+msgid "Column 2"
+msgstr ""
+
+#: includes/metabox/page/footer.php:88 includes/options/footer.php:70
+msgid "Column 3"
+msgstr ""
+
+#: includes/metabox/page/footer.php:89 includes/options/footer.php:71
+msgid "Column 4"
+msgstr ""
+
+#: includes/metabox/page/footer.php:94 includes/options/footer.php:93
+msgid "Social Icons"
+msgstr ""
+
+#: includes/metabox/page/footer.php:100 includes/options/footer.php:104
+msgid "Social Icons Theme"
+msgstr ""
+
+#: includes/metabox/page/footer.php:101
+msgid ""
+"Select social icon theme from dropdown. Setup social media icons from %s "
+"page."
+msgstr ""
+
+#: includes/metabox/page/header.php:4 includes/options/header.php:4
+msgid "Header"
+msgstr ""
+
+#: includes/metabox/page/header.php:11
+msgid "Switch on to override global header settings."
+msgstr ""
+
+#: includes/metabox/page/header.php:34
+msgid "One Page"
+msgstr ""
+
+#: includes/metabox/page/header.php:39
+msgid "Enable One Page"
+msgstr ""
+
+#: includes/metabox/page/header.php:40
+msgid "Switch on to enable one page navigation."
+msgstr ""
+
+#: includes/metabox/page/header.php:45 includes/options/header.php:28
+msgid "Navbar"
+msgstr ""
+
+#: includes/metabox/page/header.php:51
+msgid "Select header layout from preview images."
+msgstr ""
+
+#: includes/metabox/page/header.php:67 includes/options/header.php:50
+msgid "Container Width"
+msgstr ""
+
+#: includes/metabox/page/header.php:68 includes/options/header.php:51
+msgid "Select navbar container width from dropdown."
+msgstr ""
+
+#: includes/metabox/page/header.php:72 includes/options/header.php:55
+msgid "Boxed (1170px)"
+msgstr ""
+
+#: includes/metabox/page/header.php:80 includes/metabox/page/header.php:94
+#: includes/options/header.php:63 includes/options/header.php:77
+msgid "Select a navbar theme from dropdown."
+msgstr ""
+
+#: includes/metabox/page/header.php:86 includes/options/header.php:69
+msgid "Transparent Theme"
+msgstr ""
+
+#: includes/metabox/page/header.php:87 includes/options/header.php:70
+msgid "Semi Transparent Theme"
+msgstr ""
+
+#: includes/metabox/page/header.php:105 includes/options/header.php:88
+msgid "Link Color"
+msgstr ""
+
+#: includes/metabox/page/header.php:106 includes/options/header.php:89
+msgid "Select link text color from dropdown."
+msgstr ""
+
+#: includes/metabox/page/header.php:110 includes/options/header.php:93
+msgid "Light Color"
+msgstr ""
+
+#: includes/metabox/page/header.php:111 includes/options/header.php:94
+msgid "Dark Color"
+msgstr ""
+
+#: includes/metabox/page/header.php:117 includes/options/header.php:100
+msgid "Link Style"
+msgstr ""
+
+#: includes/metabox/page/header.php:118 includes/options/header.php:101
+msgid "Select link style from dorpdown."
+msgstr ""
+
+#: includes/metabox/page/header.php:122 includes/options/header.php:105
+#: includes/shortcode-map.php:53
+msgid "Default"
+msgstr ""
+
+#: includes/metabox/page/header.php:123 includes/options/header.php:106
+msgid "Outline"
+msgstr ""
+
+#: includes/metabox/page/header.php:124 includes/options/header.php:107
+msgid "Underline"
+msgstr ""
+
+#: includes/metabox/page/header.php:125 includes/metabox/page/page.php:39
+#: includes/metabox/page/title.php:67 includes/options/header.php:108
+msgid "Background"
+msgstr ""
+
+#: includes/metabox/page/header.php:131
+msgid "Active Menu"
+msgstr ""
+
+#: includes/metabox/page/header.php:132
+msgid ""
+"Select a menu from dropdown to set as an active menu. Or create a new menu "
+"from %s page."
+msgstr ""
+
+#: includes/metabox/page/header.php:138 includes/options/header.php:114
+msgid "Compact Mode"
+msgstr ""
+
+#: includes/metabox/page/header.php:139 includes/options/header.php:115
+msgid ""
+"Switch on to enable compact mode. In compact mode you will experience narrow "
+"navbar."
+msgstr ""
+
+#: includes/metabox/page/main.php:16
+msgid "Massive Page Options"
+msgstr ""
+
+#: includes/metabox/page/page.php:4
+msgid "Page"
+msgstr ""
+
+#: includes/metabox/page/page.php:9
+msgid "Spacing"
+msgstr ""
+
+#: includes/metabox/page/page.php:14 includes/metabox/page/title.php:33
+msgid "Top Padding"
+msgstr ""
+
+#: includes/metabox/page/page.php:16
+msgid "Set page top padding in pixels, for example %s. Default value is %s"
+msgstr ""
+
+#: includes/metabox/page/page.php:21 includes/metabox/page/title.php:40
+msgid "Bottom Padding"
+msgstr ""
+
+#: includes/metabox/page/page.php:23
+msgid "Set page bottom padding in pixels, for example %s. Default value is %s"
+msgstr ""
+
+#: includes/metabox/page/page.php:32
+msgid "Boxed View"
+msgstr ""
+
+#: includes/metabox/page/page.php:33
+msgid "Switch on to enable page boxed view."
+msgstr ""
+
+#: includes/metabox/page/page.php:40
+msgid "Set page background, color and other additional settings."
+msgstr ""
+
+#: includes/metabox/page/sidebar.php:4
+msgid "Sidebars"
+msgstr ""
+
+#: includes/metabox/page/sidebar.php:9
+msgid "Sidebars (%s Only work with default page template %s)"
+msgstr ""
+
+#: includes/metabox/page/sidebar.php:14
+msgid "Active Sidebar"
+msgstr ""
+
+#: includes/metabox/page/sidebar.php:15
+msgid ""
+"Select a sidebar from dropdown to set as active sidebar. Note: Select \"Both "
+"Sidebars\" for left and right sidebars. Select \"No Sidebar\" if you do not "
+"want any sidebar."
+msgstr ""
+
+#: includes/metabox/page/sidebar.php:18 includes/options/blog.php:227
+#: includes/options/woocommerce.php:30
+msgid "No Sidebar"
+msgstr ""
+
+#: includes/metabox/page/sidebar.php:19 includes/metabox/page/sidebar.php:27
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/metabox/page/sidebar.php:20 includes/metabox/page/sidebar.php:35
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/metabox/page/sidebar.php:21
+msgid "Both Sidebars"
+msgstr ""
+
+#: includes/metabox/page/sidebar.php:28 includes/metabox/page/sidebar.php:36
+msgid "See all the sidebars by going to this link %s."
+msgstr ""
+
+#: includes/metabox/page/title.php:4
+msgid "Page Title"
+msgstr ""
+
+#: includes/metabox/page/title.php:11
+msgid "Switch on to enable page title."
+msgstr ""
+
+#: includes/metabox/page/title.php:21 includes/options/blog.php:22
+msgid "Title Alignment"
+msgstr ""
+
+#: includes/metabox/page/title.php:23 includes/options/blog.php:24
+msgid "Select title alignment from dropdown."
+msgstr ""
+
+#: includes/metabox/page/title.php:25 includes/options/blog.php:26
+msgid "Align Left"
+msgstr ""
+
+#: includes/metabox/page/title.php:26 includes/options/blog.php:27
+msgid "Align Center"
+msgstr ""
+
+#: includes/metabox/page/title.php:27 includes/options/blog.php:28
+msgid "Align Right"
+msgstr ""
+
+#: includes/metabox/page/title.php:35
+msgid "Set title top padding in pixels, for example %s. Default value is %s"
+msgstr ""
+
+#: includes/metabox/page/title.php:42
+msgid "Set title bottom padding in pixels, for example %s. Default value is %s"
+msgstr ""
+
+#: includes/metabox/page/title.php:47
+msgid "Top Border"
+msgstr ""
+
+#: includes/metabox/page/title.php:49
+msgid "Set title top border in pixels, for example %s. Default value is %s"
+msgstr ""
+
+#: includes/metabox/page/title.php:54
+msgid "Bottom Border"
+msgstr ""
+
+#: includes/metabox/page/title.php:56
+msgid "Set title bottom border in pixels, for example %s. Default value is %s"
+msgstr ""
+
+#: includes/metabox/page/title.php:61
+msgid "Border Color"
+msgstr ""
+
+#: includes/metabox/page/title.php:62
+msgid "Top and bottom border color."
+msgstr ""
+
+#: includes/metabox/page/title.php:68
+msgid ""
+"Set title background image/color and adjust other relevant settings. "
+"Background default color is %s"
+msgstr ""
+
+#: includes/metabox/page/title.php:78
+msgid "Title"
+msgstr ""
+
+#: includes/metabox/page/title.php:83 includes/metabox/page/title.php:107
+#: includes/metabox/page/title.php:132
+msgid "Color"
+msgstr ""
+
+#: includes/metabox/page/title.php:84 includes/options/blog.php:65
+msgid "Pick a color for title. Default color is %s"
+msgstr ""
+
+#: includes/metabox/page/title.php:90 includes/metabox/page/title.php:114
+#: vendors/cs-framework/fields/tb_typography/tb_typography.php:116
+msgid "Font Size"
+msgstr ""
+
+#: includes/metabox/page/title.php:92
+msgid "Set title font size in pixels, for example %s. Default value is %s"
+msgstr ""
+
+#: includes/metabox/page/title.php:96
+msgid "Sub Title"
+msgstr ""
+
+#: includes/metabox/page/title.php:101
+msgid "Content"
+msgstr ""
+
+#: includes/metabox/page/title.php:102
+msgid "Set page subtitle content or left blank."
+msgstr ""
+
+#: includes/metabox/page/title.php:108
+msgid "Pick a color for subtitle. Default color is %s"
+msgstr ""
+
+#: includes/metabox/page/title.php:116
+msgid "Set subtitle font size in pixels, for example %s. Default value is %s"
+msgstr ""
+
+#: includes/metabox/page/title.php:120
+msgid "Breadcrumbs"
+msgstr ""
+
+#: includes/metabox/page/title.php:126 includes/options/blog.php:83
+msgid "Switch on to display breadcrumb."
+msgstr ""
+
+#: includes/metabox/page/title.php:133 includes/options/blog.php:90
+msgid "Breadcrumbs link color. Default color is %s"
+msgstr ""
+
+#: includes/metabox/page/title.php:140
+msgid "Active Color"
+msgstr ""
+
+#: includes/metabox/page/title.php:141 includes/options/blog.php:98
+msgid "Breadcrumbs active link color. Default color is %s"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:6
+msgid "Portfolio Settings"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:13
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:19
+msgid "Gallery"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:20
+#: includes/metabox/post/gallery.php:18
+msgid "Add multiple images in this gallery"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:26
+msgid "Portfolio Lightbox"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:32
+msgid "Hover View"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:34
+msgid "Select portfolio hover view"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:36
+msgid "Single View"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:37
+msgid "Lightbox View"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:38
+msgid "Video Lightbox"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:44
+msgid "Video Link"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:45
+msgid "Add  portfolio lightbox video link, for example %s"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:52
+msgid "Portfolio Meta"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:58
+msgid "Client"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:59
+msgid "Add client name of the portfolio"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:64
+msgid "Author"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:65
+msgid "Add author name of the portfolio"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:70
+msgid "Completion Date "
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:71
+msgid "Add completion date of the portfolio project"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:76
+msgid "Skills"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:77
+msgid "Add used skills this was used for portfolio project"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:82
+msgid "Project Link"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:83
+msgid "Add portfolio project website link"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:88
+msgid "Project Button Label"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:89
+msgid "Change label for project link button"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:95
+msgid "Portfolio Subtitle"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:101
+msgid "Custom Subtitle"
+msgstr ""
+
+#: includes/metabox/portfolio/metabox.php:102
+msgid "Add a custom subtitle for portfolio."
+msgstr ""
+
+#: includes/metabox/post/audio.php:6
+msgid "Audio Options"
+msgstr ""
+
+#: includes/metabox/post/audio.php:17
+msgid "External Audio Source URL"
+msgstr ""
+
+#: includes/metabox/post/audio.php:18
+msgid "External audio source, like soundcloud url"
+msgstr ""
+
+#: includes/metabox/post/gallery.php:6
+msgid "Gallery Options"
+msgstr ""
+
+#: includes/metabox/post/gallery.php:17
+msgid "Featured Gallery"
+msgstr ""
+
+#: includes/metabox/post/video.php:6
+msgid "Video Options"
+msgstr ""
+
+#: includes/metabox/post/video.php:17
+msgid "External Video Source URL"
+msgstr ""
+
+#: includes/metabox/post/video.php:18
+msgid "External video source, like youtube url"
+msgstr ""
+
+#: includes/metabox/product/metabox.php:6
+msgid "Product Flip Image"
+msgstr ""
+
+#: includes/metabox/product/metabox.php:17
+msgid "Enable Product Flip Image"
+msgstr ""
+
+#: includes/metabox/product/metabox.php:19
+msgid ""
+"Switch to enable/disable product flip image <br> (This image will be shown "
+"when hover on a product) "
+msgstr ""
+
+#: includes/metabox/product/metabox.php:25
+msgid "Upload Product Flip Image"
+msgstr ""
+
+#: includes/options/404.php:4
+msgid "404 Page"
+msgstr ""
+
+#: includes/options/404.php:10
+msgid "404 Message"
+msgstr ""
+
+#: includes/options/404.php:11
+msgid "Add 404 (not found) message."
+msgstr ""
+
+#: includes/options/404.php:17
+msgid "Add 404 image here."
+msgstr ""
+
+#: includes/options/advanced.php:5
+msgid "Factory"
+msgstr ""
+
+#: includes/options/advanced.php:10 includes/options/advanced.php:16
+#: includes/options/advanced.php:19 includes/options/blog.php:221
+#: includes/options/blog.php:338 includes/options/woocommerce.php:24
+msgid "Sidebar"
+msgstr ""
+
+#: includes/options/advanced.php:17
+msgid "Create unlimited sidebars and assign widgets to these sidebars from %s"
+msgstr ""
+
+#: includes/options/advanced.php:18
+msgid "Add Sidebar"
+msgstr ""
+
+#: includes/options/advanced.php:24
+msgid "Sidebar Name"
+msgstr ""
+
+#: includes/options/advanced.php:25
+msgid "Add a convenient name for this sidebar (required)."
+msgstr ""
+
+#: includes/options/advanced.php:33 includes/options/advanced.php:42
+msgid "Image Size"
+msgstr ""
+
+#: includes/options/advanced.php:39
+msgid "Image Sizes"
+msgstr ""
+
+#: includes/options/advanced.php:40
+msgid ""
+"Add as many image sizes as you want. Just make sure to regenerate images "
+"using any image regenerator plugin after adding a new image size. We "
+"recommend to use %s"
+msgstr ""
+
+#: includes/options/advanced.php:41
+msgid "Add New Size"
+msgstr ""
+
+#: includes/options/advanced.php:47
+msgid "Name"
+msgstr ""
+
+#: includes/options/advanced.php:48
+msgid "Add a convenient name for this image size (required)."
+msgstr ""
+
+#: includes/options/advanced.php:54
+msgid "Add custom image width."
+msgstr ""
+
+#: includes/options/advanced.php:59
+msgid "Height"
+msgstr ""
+
+#: includes/options/advanced.php:60
+msgid "Add custom image height."
+msgstr ""
+
+#: includes/options/advanced.php:65
+msgid "Cropping"
+msgstr ""
+
+#: includes/options/advanced.php:66
+msgid "Select image cropping type between hard & soft."
+msgstr ""
+
+#: includes/options/advanced.php:69
+msgid "Soft Cropping"
+msgstr ""
+
+#: includes/options/advanced.php:70
+msgid "Hard Cropping"
+msgstr ""
+
+#: includes/options/backup.php:7
+msgid "Backup"
+msgstr ""
+
+#: includes/options/backup.php:13
+msgid "Backup Options"
+msgstr ""
+
+#: includes/options/blog.php:12 includes/options/portfolio.php:12
+msgid "Settings"
+msgstr ""
+
+#: includes/options/blog.php:17
+msgid "Blog Title Layout"
+msgstr ""
+
+#: includes/options/blog.php:34
+msgid "Title Top Padding"
+msgstr ""
+
+#: includes/options/blog.php:36
+msgid ""
+"Set blog title top padding in pixels, for example %s. Default value is %s"
+msgstr ""
+
+#: includes/options/blog.php:41
+msgid "Title Bottom Padding"
+msgstr ""
+
+#: includes/options/blog.php:43
+msgid ""
+"Set blog title bottom padding in pixels, for example %s. Default value is %s"
+msgstr ""
+
+#: includes/options/blog.php:48
+msgid "Title Background"
+msgstr ""
+
+#: includes/options/blog.php:49
+msgid ""
+"Set blog title background image/color and adjust other relevant settings. "
+"Background default color is %s"
+msgstr ""
+
+#: includes/options/blog.php:59
+msgid "Blog Title"
+msgstr ""
+
+#: includes/options/blog.php:64
+msgid "Title Color"
+msgstr ""
+
+#: includes/options/blog.php:71
+msgid "Title Font Size"
+msgstr ""
+
+#: includes/options/blog.php:73
+msgid "Set blog title font size in pixels, for example %s. Default value is %s"
+msgstr ""
+
+#: includes/options/blog.php:77
+msgid "Blog Breadcrumbs"
+msgstr ""
+
+#: includes/options/blog.php:82
+msgid "Display Breadcrumbs"
+msgstr ""
+
+#: includes/options/blog.php:89
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: includes/options/blog.php:97
+msgid "Breadcrumbs Active Color"
+msgstr ""
+
+#: includes/options/blog.php:104
+msgid "Post Meta Data"
+msgstr ""
+
+#: includes/options/blog.php:109
+msgid "Display Post Meta"
+msgstr ""
+
+#: includes/options/blog.php:111
+msgid "Switch on to display post meta data."
+msgstr ""
+
+#: includes/options/blog.php:116
+msgid "Display Author Name"
+msgstr ""
+
+#: includes/options/blog.php:119
+msgid "Switch on to display post author name."
+msgstr ""
+
+#: includes/options/blog.php:124
+msgid "Display Post Category"
+msgstr ""
+
+#: includes/options/blog.php:127
+msgid "Switch on to display post category."
+msgstr ""
+
+#: includes/options/blog.php:132
+msgid "Display Post Comment Link"
+msgstr ""
+
+#: includes/options/blog.php:135
+msgid "Switch on to display post comment link."
+msgstr ""
+
+#: includes/options/blog.php:140
+msgid "Display Post Date"
+msgstr ""
+
+#: includes/options/blog.php:143
+msgid "Switch on to display post date."
+msgstr ""
+
+#: includes/options/blog.php:147
+msgid "Post Read More"
+msgstr ""
+
+#: includes/options/blog.php:152
+msgid "Modify Read More Button"
+msgstr ""
+
+#: includes/options/blog.php:154
+msgid "Switch on to modify post read more button."
+msgstr ""
+
+#: includes/options/blog.php:159
+msgid "Read More Button Text"
+msgstr ""
+
+#: includes/options/blog.php:162
+msgid "Add your read more button text."
+msgstr ""
+
+#: includes/options/blog.php:166 includes/options/blog.php:171
+msgid "Post Date Format"
+msgstr ""
+
+#: includes/options/blog.php:173
+msgid "Customize your post date format. Get more information from %s"
+msgstr ""
+
+#: includes/options/blog.php:177
+msgid "Post Exceprt"
+msgstr ""
+
+#: includes/options/blog.php:182
+msgid "Customize Excerpt Length"
+msgstr ""
+
+#: includes/options/blog.php:183
+msgid "Switch on to customize post excerpt length. Default is 50"
+msgstr ""
+
+#: includes/options/blog.php:188
+msgid "Post Excerpt Length"
+msgstr ""
+
+#: includes/options/blog.php:190
+msgid "Enter the post excerpt length for blog page"
+msgstr ""
+
+#: includes/options/blog.php:203
+msgid "Blog Page Title"
+msgstr ""
+
+#: includes/options/blog.php:205
+msgid "Enter blog page title"
+msgstr ""
+
+#: includes/options/blog.php:211
+msgid "Select blog page layout"
+msgstr ""
+
+#: includes/options/blog.php:215 includes/options/blog.php:332
+#: includes/options/portfolio.php:23 includes/options/woocommerce.php:18
+msgid "Fullwidth"
+msgstr ""
+
+#: includes/options/blog.php:222
+msgid "Select blog sidebar"
+msgstr ""
+
+#: includes/options/blog.php:225 includes/options/blog.php:342
+#: includes/options/woocommerce.php:28
+msgid "Sidebar Left"
+msgstr ""
+
+#: includes/options/blog.php:226 includes/options/blog.php:343
+#: includes/options/woocommerce.php:29
+msgid "Sidebar Right"
+msgstr ""
+
+#: includes/options/blog.php:233
+msgid "List Style"
+msgstr ""
+
+#: includes/options/blog.php:234
+msgid "Select blog list style"
+msgstr ""
+
+#: includes/options/blog.php:237
+msgid "Classic"
+msgstr ""
+
+#: includes/options/blog.php:238
+msgid "Grid"
+msgstr ""
+
+#: includes/options/blog.php:239
+msgid "Masonry"
+msgstr ""
+
+#: includes/options/blog.php:245
+msgid "Classic Style"
+msgstr ""
+
+#: includes/options/blog.php:247
+msgid "Select from classic style"
+msgstr ""
+
+#: includes/options/blog.php:257 includes/options/woocommerce.php:36
+msgid "Grid Style"
+msgstr ""
+
+#: includes/options/blog.php:259
+msgid "Select from grid style"
+msgstr ""
+
+#: includes/options/blog.php:270
+msgid "Masonry Style"
+msgstr ""
+
+#: includes/options/blog.php:272
+msgid "Select from masonry style"
+msgstr ""
+
+#: includes/options/blog.php:285
+msgid "Chose post content type for blog home page"
+msgstr ""
+
+#: includes/options/blog.php:287
+msgid "Excerpt"
+msgstr ""
+
+#: includes/options/blog.php:288 includes/options/blog.php:314
+msgid "Full Content"
+msgstr ""
+
+#: includes/options/blog.php:295
+msgid "Archive"
+msgstr ""
+
+#: includes/options/blog.php:301
+msgid "Featured Media"
+msgstr ""
+
+#: includes/options/blog.php:303
+msgid ""
+"Switch to show/hide featured image/video/audio from archive blog listing "
+"page."
+msgstr ""
+
+#: includes/options/blog.php:310
+msgid "Chose post content type for blog archive page"
+msgstr ""
+
+#: includes/options/blog.php:312
+msgid "Title Only"
+msgstr ""
+
+#: includes/options/blog.php:313
+msgid "Title With Excerpt"
+msgstr ""
+
+#: includes/options/blog.php:321 includes/options/portfolio.php:85
+msgid "Single"
+msgstr ""
+
+#: includes/options/blog.php:328
+msgid "Select blog's details page layout"
+msgstr ""
+
+#: includes/options/blog.php:340
+msgid "Select blog details page sidebar."
+msgstr ""
+
+#: includes/options/blog.php:344
+msgid "No Sidebar "
+msgstr ""
+
+#: includes/options/blog.php:352
+msgid "Switch on to display post tags."
+msgstr ""
+
+#: includes/options/blog.php:356
+msgid "Related Posts"
+msgstr ""
+
+#: includes/options/blog.php:361
+msgid "Display Related Posts"
+msgstr ""
+
+#: includes/options/blog.php:363 includes/options/portfolio.php:104
+msgid "Switch on to display related posts."
+msgstr ""
+
+#: includes/options/blog.php:368
+msgid "Number of Related Posts"
+msgstr ""
+
+#: includes/options/blog.php:369
+msgid "4"
+msgstr ""
+
+#: includes/options/blog.php:371
+msgid "Input number of related post want to dispaly."
+msgstr ""
+
+#: includes/options/blog.php:376
+msgid "Related Posts View"
+msgstr ""
+
+#: includes/options/blog.php:379
+msgid "Select related posts view."
+msgstr ""
+
+#: includes/options/blog.php:381
+msgid "List View"
+msgstr ""
+
+#: includes/options/blog.php:382
+msgid "Carousel View"
+msgstr ""
+
+#: includes/options/blog.php:387 includes/options/blog.php:399
+msgid "Social Share"
+msgstr ""
+
+#: includes/options/blog.php:392
+msgid "Display Social Share"
+msgstr ""
+
+#: includes/options/blog.php:394
+msgid "Switch on to display social share."
+msgstr ""
+
+#: includes/options/blog.php:403 includes/options/social.php:11
+msgid "Email"
+msgstr ""
+
+#: includes/options/blog.php:404 includes/options/social.php:26
+msgid "Twitter"
+msgstr ""
+
+#: includes/options/blog.php:405 includes/options/social.php:12
+msgid "Facebook"
+msgstr ""
+
+#: includes/options/blog.php:406 includes/options/social.php:15
+msgid "Google Plus"
+msgstr ""
+
+#: includes/options/blog.php:407
+msgid "Linkedin"
+msgstr ""
+
+#: includes/options/blog.php:408 includes/options/social.php:20
+msgid "Pinterest"
+msgstr ""
+
+#: includes/options/blog.php:411
+msgid "WordPress"
+msgstr ""
+
+#: includes/options/blog.php:412
+msgid "Stumble Upon"
+msgstr ""
+
+#: includes/options/blog.php:413
+msgid "Rddit"
+msgstr ""
+
+#: includes/options/blog.php:414 includes/options/social.php:25
+msgid "Tumblr"
+msgstr ""
+
+#: includes/options/blog.php:415
+msgid "Digg"
+msgstr ""
+
+#: includes/options/blog.php:418
+msgid "Active Social Share"
+msgstr ""
+
+#: includes/options/blog.php:419
+msgid "Inactive Social Share"
+msgstr ""
+
+#: includes/options/css.php:4
+msgid "CSS Code"
+msgstr ""
+
+#: includes/options/css.php:9
+msgid "Cascading Style Sheets (CSS)"
+msgstr ""
+
+#: includes/options/css.php:13
+msgid ""
+"You do not need to add %s tag in this field. Your CSS code will be wrapped "
+"using %s tag automatically and then will be added to your site's header"
+msgstr ""
+
+#: includes/options/footer.php:12
+msgid "Footer Settings"
+msgstr ""
+
+#: includes/options/footer.php:17
+msgid "Footer Layout"
+msgstr ""
+
+#: includes/options/footer.php:18
+msgid "Select a footer layout form dropdown."
+msgstr ""
+
+#: includes/options/footer.php:28
+msgid "Footer Theme"
+msgstr ""
+
+#: includes/options/footer.php:29
+msgid "Select a color scheme for footer from dropdown."
+msgstr ""
+
+#: includes/options/footer.php:37
+msgid "Footer Logo"
+msgstr ""
+
+#: includes/options/footer.php:56
+msgid "Footer Widget Area"
+msgstr ""
+
+#: includes/options/footer.php:76
+msgid "Copyright"
+msgstr ""
+
+#: includes/options/footer.php:81
+msgid "Display Copyright"
+msgstr ""
+
+#: includes/options/footer.php:82
+msgid "Switch on to display copyright information."
+msgstr ""
+
+#: includes/options/footer.php:87
+msgid "Copyright Content"
+msgstr ""
+
+#: includes/options/footer.php:88
+msgid "Add copyright content here."
+msgstr ""
+
+#: includes/options/footer.php:98
+msgid "Display Social Icons"
+msgstr ""
+
+#: includes/options/footer.php:99
+msgid "Switch on to display social media icons."
+msgstr ""
+
+#: includes/options/footer.php:105
+msgid "Select a icon color scheme from dropdown."
+msgstr ""
+
+#: includes/options/general.php:9
+msgid "Display Preloader"
+msgstr ""
+
+#: includes/options/general.php:10
+msgid "Switch on to display preloader."
+msgstr ""
+
+#: includes/options/general.php:16
+msgid "Display BackToTop"
+msgstr ""
+
+#: includes/options/general.php:17
+msgid "Switch on to display back to top."
+msgstr ""
+
+#: includes/options/general.php:22
+msgid "Color Scheme"
+msgstr ""
+
+#: includes/options/general.php:28
+msgid "Switch on to customize theme color."
+msgstr ""
+
+#: includes/options/general.php:33 includes/shortcode-map.php:41
+msgid "Theme Color"
+msgstr ""
+
+#: includes/options/general.php:34
+msgid "Select an amazing theme color from unlimited posibilites."
+msgstr ""
+
+#: includes/options/general.php:40
+msgid "Site Favicon"
+msgstr ""
+
+#: includes/options/general.php:45
+msgid "Favicon"
+msgstr ""
+
+#: includes/options/general.php:46
+msgid "Make sure to keep the favicon size 16px/16px or 32px/32px."
+msgstr ""
+
+#: includes/options/header.php:9
+msgid "Logo"
+msgstr ""
+
+#: includes/options/header.php:16
+msgid "Select an image for logo."
+msgstr ""
+
+#: includes/options/header.php:121
+msgid "Additional Settings"
+msgstr ""
+
+#: includes/options/header.php:126
+msgid "Display Search"
+msgstr ""
+
+#: includes/options/header.php:127
+msgid "Switch on to display search box in navigation bar."
+msgstr ""
+
+#: includes/options/js.php:4
+msgid "JavaScript Code"
+msgstr ""
+
+#: includes/options/js.php:9
+msgid "JavaScript"
+msgstr ""
+
+#: includes/options/js.php:13
+msgid ""
+"You do not need to add %s tag in this field. Your JavaScript code will be "
+"wrapped using %s tag automatically and then will be added to your site's "
+"footer"
+msgstr ""
+
+#: includes/options/portfolio.php:7
+msgid "Portfolio"
+msgstr ""
+
+#: includes/options/portfolio.php:19
+msgid "Select portfolio layout"
+msgstr ""
+
+#: includes/options/portfolio.php:29
+msgid "Grid Settings"
+msgstr ""
+
+#: includes/options/portfolio.php:31
+msgid "Select portfolio grid"
+msgstr ""
+
+#: includes/options/portfolio.php:33 includes/options/woocommerce.php:40
+msgid "Grid 2"
+msgstr ""
+
+#: includes/options/portfolio.php:34 includes/options/woocommerce.php:41
+msgid "Grid 3"
+msgstr ""
+
+#: includes/options/portfolio.php:35 includes/options/woocommerce.php:42
+msgid "Grid 4"
+msgstr ""
+
+#: includes/options/portfolio.php:36
+msgid "Grid 5"
+msgstr ""
+
+#: includes/options/portfolio.php:37
+msgid "Grid 6"
+msgstr ""
+
+#: includes/options/portfolio.php:43
+msgid "Gutter Settings"
+msgstr ""
+
+#: includes/options/portfolio.php:46
+msgid "Grid With Gutter"
+msgstr ""
+
+#: includes/options/portfolio.php:47
+msgid "Grid Without Gutter"
+msgstr ""
+
+#: includes/options/portfolio.php:53
+msgid "Content Position"
+msgstr ""
+
+#: includes/options/portfolio.php:56
+msgid "On Hover"
+msgstr ""
+
+#: includes/options/portfolio.php:57
+msgid "Bottom"
+msgstr ""
+
+#: includes/options/portfolio.php:63
+msgid "Portfolio Category"
+msgstr ""
+
+#: includes/options/portfolio.php:70
+msgid "Enable Masonry View"
+msgstr ""
+
+#: includes/options/portfolio.php:72
+msgid "Switch on to display masonry view"
+msgstr ""
+
+#: includes/options/portfolio.php:77
+msgid "Disable Portfolio Filter"
+msgstr ""
+
+#: includes/options/portfolio.php:79
+msgid "Switch on to disable portfolio filter navigation"
+msgstr ""
+
+#: includes/options/portfolio.php:91
+msgid "Fullwidth Featured Media"
+msgstr ""
+
+#: includes/options/portfolio.php:92
+msgid "Switch on to display fullwidth featured media (image/gallery)"
+msgstr ""
+
+#: includes/options/portfolio.php:102
+msgid "Display Related Portfolio"
+msgstr ""
+
+#: includes/options/portfolio.php:109
+msgid "Number of Related Portfolio"
+msgstr ""
+
+#: includes/options/portfolio.php:110
+msgid "5"
+msgstr ""
+
+#: includes/options/portfolio.php:112
+msgid "Input number of related portfolio want to dispaly "
+msgstr ""
+
+#: includes/options/social.php:6
+msgid "Behance"
+msgstr ""
+
+#: includes/options/social.php:7
+msgid "Bitbucket"
+msgstr ""
+
+#: includes/options/social.php:9
+msgid "Deviant Art"
+msgstr ""
+
+#: includes/options/social.php:10
+msgid "Dribbble"
+msgstr ""
+
+#: includes/options/social.php:13
+msgid "Flickr"
+msgstr ""
+
+#: includes/options/social.php:14
+msgid "Github"
+msgstr ""
+
+#: includes/options/social.php:16
+msgid "Instagram"
+msgstr ""
+
+#: includes/options/social.php:17
+msgid "JsFiddle"
+msgstr ""
+
+#: includes/options/social.php:18
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/options/social.php:19 includes/shortcode-map.php:68
+msgid "Medium"
+msgstr ""
+
+#: includes/options/social.php:21
+msgid "Slide Share"
+msgstr ""
+
+#: includes/options/social.php:22
+msgid "Sound Cloud"
+msgstr ""
+
+#: includes/options/social.php:23
+msgid "Stack Exchange"
+msgstr ""
+
+#: includes/options/social.php:24
+msgid "Stack Overflow"
+msgstr ""
+
+#: includes/options/social.php:27
+msgid "Vimeo"
+msgstr ""
+
+#: includes/options/social.php:28
+msgid "WhatsApp"
+msgstr ""
+
+#: includes/options/social.php:29
+msgid "Youtube"
+msgstr ""
+
+#: includes/options/social.php:34 includes/options/social.php:40
+msgid "Social Media"
+msgstr ""
+
+#: includes/options/social.php:41
+msgid "Add New Media"
+msgstr ""
+
+#: includes/options/social.php:42
+msgid "Media Name"
+msgstr ""
+
+#: includes/options/social.php:47
+msgid "Media"
+msgstr ""
+
+#: includes/options/social.php:53
+msgid "Custom Icon"
+msgstr ""
+
+#: includes/options/social.php:54
+msgid ""
+"Add a Font Awesome icon class. Note: class name from different icon library "
+"may not work properly."
+msgstr ""
+
+#: includes/options/typography.php:4
+msgid "Typography"
+msgstr ""
+
+#: includes/options/typography.php:14
+msgid "Override Default"
+msgstr ""
+
+#: includes/options/typography.php:15
+msgid "Switch on to override default typography."
+msgstr ""
+
+#: includes/options/typography.php:20
+msgid "Body"
+msgstr ""
+
+#: includes/options/typography.php:26
+msgid "Body Typography"
+msgstr ""
+
+#: includes/options/typography.php:28 includes/options/typography.php:52
+#: includes/options/typography.php:66 includes/options/typography.php:79
+#: includes/options/typography.php:92 includes/options/typography.php:105
+#: includes/options/typography.php:118
+msgid ""
+"Set font family, font variant, font size & line height for body text. "
+"Default unit for font size & line height is %s."
+msgstr ""
+
+#: includes/options/typography.php:40 includes/options/typography.php:44
+msgid "Heading (h1..h6)"
+msgstr ""
+
+#: includes/options/typography.php:50
+msgid "H1 Typography"
+msgstr ""
+
+#: includes/options/typography.php:64
+msgid "H2 Typography"
+msgstr ""
+
+#: includes/options/typography.php:77
+msgid "H3 Typography"
+msgstr ""
+
+#: includes/options/typography.php:90
+msgid "H4 Typography"
+msgstr ""
+
+#: includes/options/typography.php:103
+msgid "H5 Typography"
+msgstr ""
+
+#: includes/options/typography.php:116
+msgid "H6 Typography"
+msgstr ""
+
+#: includes/options/woocommerce.php:7
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/options/woocommerce.php:14
+msgid "Select WooCommerce page layout"
+msgstr ""
+
+#: includes/options/woocommerce.php:25
+msgid "Select WooCommerce sidebar"
+msgstr ""
+
+#: includes/options/woocommerce.php:38
+msgid "Select product grid style"
+msgstr ""
+
+#: includes/shortcode-map.php:10
+msgid "Button"
+msgstr ""
+
+#: includes/shortcode-map.php:15
+msgid "Button Type"
+msgstr ""
+
+#: includes/shortcode-map.php:18
+msgid "Fill"
+msgstr ""
+
+#: includes/shortcode-map.php:19
+msgid "Line"
+msgstr ""
+
+#: includes/shortcode-map.php:26
+msgid "Button Shape"
+msgstr ""
+
+#: includes/shortcode-map.php:29
+msgid "Rectangular"
+msgstr ""
+
+#: includes/shortcode-map.php:30
+msgid "Rounded"
+msgstr ""
+
+#: includes/shortcode-map.php:31
+msgid "Capsule"
+msgstr ""
+
+#: includes/shortcode-map.php:37 includes/shortcode-map.php:49
+msgid "Button Color"
+msgstr ""
+
+#: includes/shortcode-map.php:42
+msgid "Black"
+msgstr ""
+
+#: includes/shortcode-map.php:43
+msgid "White"
+msgstr ""
+
+#: includes/shortcode-map.php:54
+msgid "Primary"
+msgstr ""
+
+#: includes/shortcode-map.php:55
+msgid "Info"
+msgstr ""
+
+#: includes/shortcode-map.php:56
+msgid "Success"
+msgstr ""
+
+#: includes/shortcode-map.php:57
+msgid "Warning"
+msgstr ""
+
+#: includes/shortcode-map.php:58
+msgid "Danger"
+msgstr ""
+
+#: includes/shortcode-map.php:64
+msgid "Button Size"
+msgstr ""
+
+#: includes/shortcode-map.php:67
+msgid "Large"
+msgstr ""
+
+#: includes/shortcode-map.php:69
+msgid "Small"
+msgstr ""
+
+#: includes/shortcode-map.php:70
+msgid "Tiny"
+msgstr ""
+
+#: includes/shortcode-map.php:76 includes/shortcode-map.php:77
+msgid "Button Text"
+msgstr ""
+
+#: includes/shortcode-map.php:82
+msgid "Button Link"
+msgstr ""
+
+#: includes/shortcode-map.php:83
+msgid "http://"
+msgstr ""
+
+#: includes/shortcode-map.php:88
+msgid "Open Link In A New Tab."
+msgstr ""
+
+#: includes/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: includes/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: includes/template-tags.php:50 includes/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: includes/template-tags.php:52
+msgid "Posted in %1$s"
+msgstr ""
+
+#: includes/template-tags.php:58
+msgid "Tagged %1$s"
+msgstr ""
+
+#: includes/template-tags.php:64
+msgid "Leave a comment"
+msgstr ""
+
+#: includes/template-tags.php:64
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: includes/template-tags.php:71 partials/content-page.php:34
+msgid "Edit %s"
+msgstr ""
+
+#: includes/woocommerce/filters/archive.php:19
+msgid "Showing the single result"
+msgstr ""
+
+#: includes/woocommerce/filters/archive.php:21
+msgid "Showing all %d results"
+msgstr ""
+
+#: includes/woocommerce/filters/archive.php:23
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+#: includes/woocommerce/filters/archive.php:52
+#: includes/woocommerce/filters/single.php:19
+msgid "Sale!"
+msgstr ""
+
+#: includes/woocommerce/filters/related.php:33
+msgid "Related Products"
+msgstr ""
+
+#: includes/woocommerce/filters/related.php:35
+msgid "We have %s similar product currently in stock"
+msgstr ""
+
+#: includes/woocommerce/filters/single.php:86
+msgid "InStock"
+msgstr ""
+
+#: includes/woocommerce/filters/single.php:86
+msgid "OutOfStock"
+msgstr ""
+
+#: includes/woocommerce/filters/single.php:140
+#: includes/woocommerce/filters/single.php:262 woocommerce/cart/cart.php:39
+#: woocommerce/cart/cart.php:104
+msgid "Quantity"
+msgstr ""
+
+#: includes/woocommerce/filters/single.php:213
+msgid "Product Description"
+msgstr ""
+
+#: includes/woocommerce/filters/single.php:227
+#: woocommerce/checkout/form-shipping.php:56
+msgid "Additional Information"
+msgstr ""
+
+#: includes/woocommerce/filters/single.php:308
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: includes/woocommerce/filters/single.php:323
+msgid "Clear selection"
+msgstr ""
+
+#: includes/woocommerce/filters/single.php:380
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: includes/woocommerce/filters/single.php:392
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: includes/woocommerce/filters/single.php:402
+msgid "verified owner"
+msgstr ""
+
+#: page.php:40 templates/fullwidth.php:27
+msgid "Page Heading"
+msgstr ""
+
+#: partials/content-none.php:15
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: partials/content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: partials/content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: partials/content-page.php:23
+msgid "Pages:"
+msgstr ""
+
+#: search.php:25
+msgid "Search results for: %s"
+msgstr ""
+
+#: single-portfolio.php:31
+msgid "Prev "
+msgstr ""
+
+#: single-portfolio.php:32
+msgid "Home page"
+msgstr ""
+
+#: single-portfolio.php:83
+msgid "Client "
+msgstr ""
+
+#: single-portfolio.php:89
+msgid "Created by "
+msgstr ""
+
+#: single-portfolio.php:95
+msgid "Completed on "
+msgstr ""
+
+#: single-portfolio.php:101
+msgid "Skills "
+msgstr ""
+
+#: single-portfolio.php:110
+msgid "Visit Website"
+msgstr ""
+
+#: vendors/breadcrumb-trail.php:244
+msgid "Browse:"
+msgstr ""
+
+#: vendors/breadcrumb-trail.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: vendors/breadcrumb-trail.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: vendors/breadcrumb-trail.php:248
+msgid "Archives"
+msgstr ""
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: vendors/breadcrumb-trail.php:250
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: vendors/breadcrumb-trail.php:252
+msgid "Page %s"
+msgstr ""
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: vendors/breadcrumb-trail.php:254
+msgid "Minute %s"
+msgstr ""
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: vendors/breadcrumb-trail.php:256
+msgid "Week %s"
+msgstr ""
+
+#: vendors/breadcrumb-trail.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: vendors/breadcrumb-trail.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: vendors/breadcrumb-trail.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: vendors/breadcrumb-trail.php:758 vendors/breadcrumb-trail.php:787
+#: vendors/breadcrumb-trail.php:814 vendors/breadcrumb-trail.php:841
+#: vendors/breadcrumb-trail.php:1176
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: vendors/breadcrumb-trail.php:759 vendors/breadcrumb-trail.php:815
+#: vendors/breadcrumb-trail.php:1180
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: vendors/breadcrumb-trail.php:760 vendors/breadcrumb-trail.php:1184
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: vendors/breadcrumb-trail.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: vendors/cs-framework/classes/framework.class.php:176
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: vendors/cs-framework/classes/framework.class.php:181
+msgid "Default options restored."
+msgstr ""
+
+#: vendors/cs-framework/classes/framework.class.php:200
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: vendors/cs-framework/classes/framework.class.php:363
+msgid "Settings saved."
+msgstr ""
+
+#: vendors/cs-framework/classes/framework.class.php:364
+msgid "Save"
+msgstr ""
+
+#: vendors/cs-framework/classes/framework.class.php:364
+msgid "Saving..."
+msgstr ""
+
+#: vendors/cs-framework/classes/framework.class.php:365
+msgid "Restore"
+msgstr ""
+
+#: vendors/cs-framework/classes/framework.class.php:367
+msgid "show all options"
+msgstr ""
+
+#: vendors/cs-framework/classes/options.class.php:125
+msgid "CONFIG"
+msgstr ""
+
+#: vendors/cs-framework/classes/options.class.php:131
+msgid "USAGE"
+msgstr ""
+
+#: vendors/cs-framework/classes/options.class.php:137
+msgid "VALUE"
+msgstr ""
+
+#: vendors/cs-framework/classes/options.class.php:213
+msgid "You are editing language: ( <strong>%s</strong> )"
+msgstr ""
+
+#: vendors/cs-framework/classes/shortcode.class.php:82
+#: vendors/cs-framework/classes/shortcode.class.php:90
+#: vendors/cs-framework/fields/textarea/textarea.php:27
+msgid "Add Shortcode"
+msgstr ""
+
+#: vendors/cs-framework/classes/shortcode.class.php:92
+msgid "Select a shortcode"
+msgstr ""
+
+#: vendors/cs-framework/classes/shortcode.class.php:108
+msgid "Insert Shortcode"
+msgstr ""
+
+#: vendors/cs-framework/fields/background/background.php:32
+#: vendors/cs-framework/fields/background/background.php:33
+#: vendors/cs-framework/fields/upload/upload.php:23
+#: vendors/cs-framework/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: vendors/cs-framework/fields/background/background.php:34
+#: vendors/cs-framework/fields/upload/upload.php:25
+msgid "Use Image"
+msgstr ""
+
+#: vendors/cs-framework/fields/backup/backup.php:21
+msgid "Import a Backup"
+msgstr ""
+
+#: vendors/cs-framework/fields/backup/backup.php:22
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: vendors/cs-framework/fields/backup/backup.php:27
+msgid "Export and Download Backup"
+msgstr ""
+
+#: vendors/cs-framework/fields/backup/backup.php:28
+msgid "or"
+msgstr ""
+
+#: vendors/cs-framework/fields/backup/backup.php:29
+msgid "!!! Reset All Options !!!"
+msgstr ""
+
+#: vendors/cs-framework/fields/backup/backup.php:30
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: vendors/cs-framework/fields/gallery/gallery.php:22
+msgid "Edit Gallery"
+msgstr ""
+
+#: vendors/cs-framework/fields/gallery/gallery.php:23
+msgid "Clear"
+msgstr ""
+
+#: vendors/cs-framework/fields/group/group.php:21
+msgid "Adding"
+msgstr ""
+
+#: vendors/cs-framework/fields/icon/icon.php:25
+#: vendors/cs-framework/functions/actions.php:55
+msgid "Add Icon"
+msgstr ""
+
+#: vendors/cs-framework/fields/icon/icon.php:26
+msgid "Remove Icon"
+msgstr ""
+
+#: vendors/cs-framework/fields/sorter/sorter.php:24
+msgid "Enabled Modules"
+msgstr ""
+
+#: vendors/cs-framework/fields/sorter/sorter.php:25
+msgid "Disabled Modules"
+msgstr ""
+
+#: vendors/cs-framework/fields/switcher/switcher.php:20
+msgid "on"
+msgstr ""
+
+#: vendors/cs-framework/fields/switcher/switcher.php:20
+msgid "off"
+msgstr ""
+
+#: vendors/cs-framework/fields/tb_typography/tb_typography.php:77
+msgid "Font Family"
+msgstr ""
+
+#: vendors/cs-framework/fields/tb_typography/tb_typography.php:82
+#: vendors/cs-framework/fields/typography/typography.php:73
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: vendors/cs-framework/fields/tb_typography/tb_typography.php:88
+#: vendors/cs-framework/fields/typography/typography.php:79
+msgid "Google Fonts"
+msgstr ""
+
+#: vendors/cs-framework/fields/tb_typography/tb_typography.php:102
+msgid "Font Variant"
+msgstr ""
+
+#: vendors/cs-framework/fields/tb_typography/tb_typography.php:119
+msgid "Font Size in Pixel"
+msgstr ""
+
+#: vendors/cs-framework/fields/tb_typography/tb_typography.php:128
+msgid "Line Height"
+msgstr ""
+
+#: vendors/cs-framework/fields/tb_typography/tb_typography.php:131
+msgid "Line Height in Pixel"
+msgstr ""
+
+#: vendors/cs-framework/fields/tb_typography/tb_typography.php:150
+#: vendors/cs-framework/fields/typography/typography.php:107
+#: vendors/cs-framework/functions/actions.php:30
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: vendors/cs-framework/functions/actions.php:56
+msgid "Search a Icon..."
+msgstr ""
+
+#: vendors/cs-framework/functions/actions.php:57
+msgid "Loading..."
+msgstr ""
+
+#: vendors/cs-framework/functions/helpers.php:48
+msgid "This field class is not available!"
+msgstr ""
+
+#: vendors/cs-framework/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: vendors/cs-framework/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: vendors/cs-framework/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:920
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2626
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1027
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:1214
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2075
+msgid "TGMPA v%s"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2435
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2481
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2485
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2489
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2493
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2696
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2701
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2707
+msgid "Activate %2$s"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3591
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3594
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3596
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3605
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3610
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: vendors/tgm-plugin-activation/class-tgm-plugin-activation.php:3613
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:48
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:50
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:29
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:34 woocommerce/cart/cart-totals.php:35
+#: woocommerce/cart/mini-cart.php:79 woocommerce/checkout/review-order.php:60
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:56 woocommerce/cart/cart-totals.php:57
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:72
+msgid "estimated for %s"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:93 woocommerce/cart/cart-totals.php:94
+#: woocommerce/cart/cart.php:40 woocommerce/cart/cart.php:123
+#: woocommerce/checkout/review-order.php:28
+#: woocommerce/checkout/review-order.php:107
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36
+msgid "Image"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:80
+#: woocommerce/checkout/review-order.php:27
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:98
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:61 woocommerce/cart/mini-cart.php:48
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:93
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:137
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:142
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:145 woocommerce/checkout/form-coupon.php:39
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:47
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:71
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:84
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:85
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:17
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:17
+msgid " Continue Shopping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:33
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:39
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:56
+#: woocommerce/cart/shipping-calculator.php:62
+#: woocommerce/cart/shipping-calculator.php:74
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:63
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:83
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:91
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:96
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:28
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:30
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:48
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:59
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:55
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:36
+#: woocommerce/checkout/form-coupon.php:37
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:29
+#: woocommerce/checkout/form-shipping.php:30
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:42
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/global/form-login.php:35 woocommerce/global/form-login.php:36
+#: woocommerce/myaccount/form-lost-password.php:32
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:40 woocommerce/global/form-login.php:41
+#: woocommerce/myaccount/form-login.php:50
+#: woocommerce/myaccount/form-login.php:101
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:48 woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-login.php:58
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:55
+msgid "Remember  me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:57 woocommerce/myaccount/form-login.php:63
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:29
+msgid "Edit Account"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:32
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:33
+msgid "First name *"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:36
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:37
+msgid "Last name *"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:40
+#: woocommerce/myaccount/form-edit-account.php:41
+#: woocommerce/myaccount/form-login.php:94
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:44
+msgid "Password Change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:47
+#: woocommerce/myaccount/form-edit-account.php:48
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:51
+#: woocommerce/myaccount/form-edit-account.php:52
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:55
+#: woocommerce/myaccount/form-edit-account.php:56
+msgid "Confirm New Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:63
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:23
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/myaccount/my-address.php:32
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:23
+#: woocommerce/myaccount/my-address.php:28
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:48
+msgid "Save Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:46
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:47
+msgid "Username or email address *"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:51
+#: woocommerce/myaccount/form-login.php:102
+msgid "Password *"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:62
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:77
+#: woocommerce/myaccount/form-login.php:115
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:87
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:88
+msgid "Username *"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:95
+msgid "Email address *"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:108
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:29
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:42
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:39
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:67
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:51
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:61
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/orders.php:68
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:72
+msgid "View"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:107
+msgid "Previous"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:119
+msgid "Go Shop"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:121
+msgid "No order has been made yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:33
+msgid "%s review for %s%s%s"
+msgid_plural "%s reviews for %s%s%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:35
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:56
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:66
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:66
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Name *"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Email *"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "You must be %s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:104
+msgid "Comment *"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:113
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://massive.themebucket.net/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Theme Bucket <themebucket@gmail.com>"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themebucket.net/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog-2-Grid"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog-3-Grid"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog-4-Grid"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog-Classic-2-Listing"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog-Classic-FullWidth"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog-Classic-Sidebar-Left"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog-Classic-Sidebar-Right"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog-Details-FullWidth"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog-Details-Sidebar-Left"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog-Details-Sidebar-Right"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog-Masonry-2-Grid"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog-Masonry-3-Grid"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog-Masonry-4-Grid"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog-Masonry-FullWidth"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home-Blog-Grid"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home-Blog-List"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home-Blog-FullWidth"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home-Blog-Sidebar-Left"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home-Blog-Sidebar-Right"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home-Blog-Masonry"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Shop-2-Grid"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Shop-3-Grid"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Shop-4-Grid"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Massive Portfolio"
+msgstr ""

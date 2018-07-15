@@ -1,0 +1,132 @@
+
+.video-parallax {
+  position: relative;
+  overflow: hidden;
+}
+
+.video-parallax .container{
+  position: absolute;
+  top: 50%;
+  z-index: 100;
+  left: 0;
+  right: 0;
+  color: #fff;
+  margin-top: -80px;
+}
+
+.video-parallax .container i{
+  font-size: 50px;
+  margin-bottom: 30px;
+  display: block;
+}
+
+.video-parallax .container+.video-wrap {
+  z-index: 1;
+}
+
+.video-wrap {
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+}
+
+.video-overlay, .banner-overaly {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 5;
+  background: rgba(0,0,0,0.5);
+  -webkit-backface-visibility: hidden;
+}
+
+/*portfolio-meta*/
+
+.portfolio-meta {
+  list-style: none;
+  padding: 0;
+}
+
+.portfolio-meta li {
+  margin: 15px 0;
+  color: #666;
+}
+
+.portfolio-meta li span {
+  display: inline-block;
+  width: 130px;
+  letter-spacing: 2px;
+  color: #000;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.portfolio-meta li a {
+  margin-right: 10px;
+  color: #cdcdcd;
+}
+.portfolio-meta li a:hover {
+  color: #323232;
+}
+
+/* ----------------------------------------------------------------
+    portfolio nav
+-----------------------------------------------------------------*/
+
+.portfolio-nav-row {
+  position: relative;
+  padding: 40px 0;
+}
+
+.portfolio-nav {
+  position: absolute;
+  top: 50%;
+  left: auto;
+  right: 10px;
+  max-width: 300px;
+  margin-top: -12px;
+}
+
+.portfolio-nav.left {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: auto;
+  max-width: 300px;
+  margin-top: -12px;
+}
+
+.portfolio-nav a {
+  display: block;
+  float: left;
+  text-align: center;
+  color: #aeaeae;
+  margin-left: 20px;
+}
+
+.portfolio-nav.left a {
+  margin-right: 20px;
+  margin-left: 0;
+}
+
+.portfolio-nav a:hover,
+.portfolio-nav a:hover span{
+  color: #323232;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+.portfolio-nav a span, .portfolio-nav a span i {
+  display: inline-block;
+  margin-top: 0;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+
+.portfolio-gap-less .portfolio {
+  margin: 0px;
+}

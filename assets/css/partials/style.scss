@@ -1,0 +1,164 @@
+/*===============================================================
+ Project:   Massive - Multipurpose WordPress Theme
+ Build:     Bootstrap 3 +
+ Author:    ThemeBucket
+ ================================================================*/
+
+/*==================Table of Contents=============================
+
+1. tb preloader
+2. base
+3. header
+4. top mega menu
+5. menu appear alt
+6. floating menu
+7. nav icon
+8. nav link boxed
+9. nav link border box
+10. nav link border bottom
+11. nav center align
+12. nav bottom position
+13. nav block left align
+14. pre-defined >  margin top | margin bottom
+15. body content
+16. portfolio
+17. portfolio with title
+18. portfolio masonry
+19. Isotope Filtering
+20. portfolio details
+21. portfolio nav
+22. masonry grid
+23. Flex Slider
+24. slider revolution
+25. maintenance
+26. top bar
+27. primary nav
+28. countdown
+29. bs slider
+30. static banner
+31. video banner
+32. custom pagination
+33. Product list
+34. contact us
+35. event page
+36. magazine page
+37. catering page
+38. hotel page
+39. app landing page
+40. Slider Typist
+41. Boxed View
+42. scroll top
+ ================================================================*/
+
+
+@import 'preloader';
+@import 'base';
+@import 'utility';
+@import 'override';
+@import 'boxed';
+
+@import 'top-bar';
+@import 'minicart';
+@import 'navbar';
+
+@import 'wp';
+
+@import 'bs-banner';
+@import 'flex-banner';
+@import 'static-banner';
+@import 'video-banner';
+@import 'revolution';
+
+@import 'widget';
+@import 'blog';
+@import 'animated-image';
+
+@import 'contact';
+@import 'count-down';
+@import 'primary-nav';
+@import 'product-list';
+@import 'portfolio';
+@import 'portfolio-single';
+
+@import 'shortcode';
+@import 'tbgrid';
+@import 'typist';
+@import 'pagination';
+
+@import 'theme-app';
+@import 'theme-catering';
+@import 'theme-event';
+@import 'theme-fashion';
+@import 'theme-hotel';
+@import 'theme-magazine';
+@import 'theme-travel';
+@import 'theme-wedding';
+
+@import 'scroll-top';
+
+.wpcf7 .form-group{
+  line-height: 0;
+}
+
+.error-avatar img{
+  max-width: 100%;
+}
+
+.error-txt{
+  line-height: 33px;
+}
+
+.bg-img-left-align {
+  background-repeat: no-repeat;
+  background-position: left 100px !important;
+}
+
+.bg-img-right-align {
+  background-repeat: no-repeat;
+  background-position: right 100px !important;
+}
+
+.featured-container-center-align .container{
+  width: 100% !important;
+}
+
+.featured-auto-height .featured-item{
+  height: 300px;
+}
+
+.admin-bar header.sticky {
+  margin-top: 32px;
+}
+
+@media only screen and (min-width: 769px) {
+  .tb-parallax-banner {
+    background-size: cover;
+  }
+}
+
+.post-edit-link,
+.vc_inline-link,
+.return-to-shop .button {
+  display: inline-block;
+  padding: 6px 12px;
+  font-size: 14px;
+  text-transform: uppercase;
+  line-height: 1.42857143;
+  letter-spacing: 1px;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+
+.massive-main > .ab-item > img {
+  display: inline-block;
+  top: -1px;
+  position: relative !important;
+  margin-right: 5px !important;
+}
+
+
+// WooCommerce style fix
+.woocommerce-MyAccount-navigation {
+  margin-bottom: 30px;
+}

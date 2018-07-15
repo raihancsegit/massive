@@ -1,0 +1,106 @@
+.is-required {
+    position: absolute;
+    top: 50px;
+    left: 0;
+    padding: 5px 10px 5px 25px;
+    color: #fff;
+    background: rgba(213,78,33,.95);
+    text-transform: uppercase;
+}
+
+.is-required:before {
+    display: inline-block;
+    position: absolute;
+    left: 5px;
+    font-family: dashicons;
+    content: "\f155";
+}
+
+.MassiveDashboard {
+    max-width: 1050px;
+}
+
+.MassiveDashboard__header {
+    overflow: hidden;
+    margin: 20px 0;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+}
+
+.MassiveDashboard__logoWrapper {
+    display: block;
+    float: left;
+    width: 125px;
+    margin-right: 20px;
+}
+
+.MassiveDashboard__logo {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.MassiveDashboard__title {
+    font-size: 32px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.MassiveDashboard__desc {
+    margin: 0;
+    font-size: 16px;
+    color: #666;
+}
+
+.MassiveDashboard__footer {
+    margin-top: 50px;
+    padding: 15px 0;
+    border-top: 1px solid #ddd;
+}
+
+@media (min-width: 1121px) {
+    .required-plugins .theme {
+        width: 31.3333%;
+        margin: 0 3% 3% 0;
+    }
+
+    .required-plugins .theme:nth-child(3n) {
+        margin-right: 0;
+    }
+
+    .required-plugins .theme:nth-child(4n) {
+        margin-right: 3%;
+    }
+}
+
+.direction-list {
+    padding: 1px 0 0 1px;
+}
+
+.direction-item {
+    float: left;
+    width: 50%;
+    -webkit-border-sizing: border-box;
+    -moz-border-sizing: border-box;
+    box-sizing: border-box;
+    padding: 50px 100px;
+    background: #fff;
+    border: 1px solid #ddd;
+    margin: -1px 0 0 -1px;
+    text-align: center;
+    min-height: 295px;
+}
+
+.direction-item h3 {
+    margin: 0 0 20px;
+    font-weight: 400;
+    font-size: 20px;
+    text-transform: capitalize;
+    color: #555;
+}
+
+.direction-item p {
+    margin-bottom: 40px;
+    font-size: 14px;
+    line-height: 1.65;
+}

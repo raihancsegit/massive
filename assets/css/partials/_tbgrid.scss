@@ -1,0 +1,55 @@
+.tb-grid {
+  width: 100%;
+  margin: auto;
+}
+
+.tb-grid .box {
+  width:33.3333%;
+  padding-top: 33.3333%;
+}
+
+.tb-grid .box2 {
+  padding-top: 33.3333%;
+  width:66.6666%;
+}
+
+.tb-grid .box3 {
+  padding-top: 66.6666%;
+  width:66.6666%;
+}
+
+.tb-grid .box-nano {
+  width: 50%;
+  padding-top: 50%;
+  float: left;
+  margin: 0;
+  position: relative;
+}
+
+.tb-grid .box,
+.tb-grid .box2,
+.tb-grid .box3 {
+  display: inline-block;
+}
+
+.tb-grid .item > .item-inner,
+.tb-grid .box-nano > .item-inner {
+  position: absolute;
+  margin: 0;
+  top: 5px;
+  right: 5px;
+  bottom: 5px;
+  left: 5px;
+  background-size: cover;
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+  cursor: crosshair;
+
+}
+
+.tb-grid .items > .item-inner {
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}

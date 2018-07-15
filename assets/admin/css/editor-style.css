@@ -1,0 +1,19 @@
+/**
+ * Massive editor styles
+ */
+
+blockquote p:before,
+blockquote p:after {
+    font-family: 'FontAwesome';
+    color: #837f7e;
+}
+
+blockquote p:before {
+    padding-right: 10px;
+    content: "\f10d";
+}
+
+blockquote p:after {
+    padding-left: 10px;
+    content: "\f10e";
+}

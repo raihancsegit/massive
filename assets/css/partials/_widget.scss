@@ -1,0 +1,135 @@
+.widget .widget-title {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.widget .heading-title-alt {
+  margin-bottom: 50px;
+}
+
+.widget ul {
+  list-style: none;
+  padding: 0;
+}
+
+.widget ul li {
+  margin-bottom: 20px;
+  float:left;
+  width:100%;
+}
+
+.widget ul li a {
+  color: #837f7e;
+}
+
+.widget ul li a:before {
+  content: "\f105";
+  padding-right: 10px;
+  font-family: 'FontAwesome';
+}
+
+.widget.widget_pages {
+  list-style: none;
+}
+
+.widget.widget_pages ul ul,
+.widget.widget_nav_menu ul ul{
+  padding-left: 30px;
+}
+
+.widget.widget_recent_comments li a:before {
+  content: " ";
+  padding-right: 0px;
+  font-family: 'FontAwesome';
+}
+
+.widget.widget_recent_comments li:before {
+  content: "\f0e6";
+  padding-right: 10px;
+  font-family: 'FontAwesome';
+  color: #837f7e;
+}
+
+.widget.widget_archive select,
+.widget.widget_categories select,
+.textwidget select {
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 0;
+  background: none;
+  height: 40px;
+  outline: none;
+}
+
+.wp-calendar, .calendar_wrap table {
+  width:100%;
+}
+
+.calendar_wrap a:hover {
+  color:#fff;
+}
+
+.textwidget img {
+  width:100%;
+  height:auto;
+}
+
+.tagcloud a {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding: 3px 10px;
+  color: #837f7e;
+  border: 1px solid #d3d3d3;
+  border-radius: 50px;
+  font-size: 14px !important;
+}
+
+.tagcloud a:hover {
+  color:#fff;
+}
+
+.widget_massive_gallery_uploader ul {
+  margin: 0 -5px;
+}
+
+.widget_massive_gallery_uploader ul li {
+  width: 33.3333%;
+  float: left;
+  margin: 0;
+  padding: 5px;
+}
+
+.widget_massive_gallery_uploader img {
+  display: block;
+  max-width: 100%;
+  max-height: auto;
+  cursor: pointer;
+}
+
+.Site-footer--dark .footer-widget-title {
+  color: #fff
+}
+
+.Site-footer--dark .widget select,
+.Site-footer--dark .textwidget select {
+  width: 100%;
+  border: none;
+  border-radius: 0;
+  background: #fff;
+  height: 40px;
+  outline: none;
+}
+
+.widget.widget_massive_image_uploader {
+  margin-bottom:0px;
+}
+
+#footer .widget:last-child {
+  margin-bottom:0px;
+}
+
+.widget img {
+  max-width: 100%;
+  height: auto;
+}
